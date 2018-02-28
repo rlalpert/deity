@@ -1,0 +1,814 @@
+[
+    {
+        "name": "NEW_ACHIEVEMENT_4_14",
+        "percent": 78.2535629272461
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_4_20",
+        "percent": 76.92998504638672
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_4_23",
+        "percent": 72.5884780883789
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_4_13",
+        "percent": 71.66514587402344
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_4_16",
+        "percent": 70.65286254882812
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_4_15",
+        "percent": 63.96235656738281
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_4_17",
+        "percent": 48.42180252075195
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_3_0",
+        "percent": 38.20507049560547
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_4_18",
+        "percent": 38.10131072998047
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_2_0",
+        "percent": 37.672794342041016
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_4_28",
+        "percent": 37.142425537109375
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_2_1",
+        "percent": 32.619468688964844
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_2_2",
+        "percent": 30.1490421295166
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_4_19",
+        "percent": 28.39304542541504
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_4_12",
+        "percent": 28.2872257232666
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_2_3",
+        "percent": 26.906024932861328
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_3_31",
+        "percent": 26.359397888183594
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_2_10",
+        "percent": 20.501142501831055
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_3_28",
+        "percent": 19.38721466064453
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_2_8",
+        "percent": 18.893306732177734
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_2_11",
+        "percent": 17.73259925842285
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_3_27",
+        "percent": 17.523868560791016
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_4_5",
+        "percent": 16.22393798828125
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_4_10",
+        "percent": 14.867231369018555
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_3_24",
+        "percent": 14.772583961486816
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_2_4",
+        "percent": 12.865455627441406
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_4_3",
+        "percent": 12.223649978637695
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_2_29",
+        "percent": 10.176094055175781
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_3_30",
+        "percent": 9.994296073913574
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_2_9",
+        "percent": 8.338268280029297
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_2_12",
+        "percent": 8.250617980957031
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_3_25",
+        "percent": 7.794344425201416
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_2_30",
+        "percent": 7.5557403564453125
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_2_5",
+        "percent": 7.531012535095215
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_3_29",
+        "percent": 7.5001983642578125
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_4_2",
+        "percent": 7.482144832611084
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_2_26",
+        "percent": 6.866037845611572
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_4_1",
+        "percent": 6.807260990142822
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_4_4",
+        "percent": 6.551985263824463
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_3_23",
+        "percent": 6.502353191375732
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_2_19",
+        "percent": 6.400120258331299
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_2_16",
+        "percent": 6.138669490814209
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_2_14",
+        "percent": 6.102622032165527
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_3_26",
+        "percent": 6.028555870056152
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_2_24",
+        "percent": 5.8976545333862305
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_2_31",
+        "percent": 5.45073127746582
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_2_13",
+        "percent": 5.421475410461426
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_2_6",
+        "percent": 5.055850982666016
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_3_1",
+        "percent": 4.952499866485596
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_2_28",
+        "percent": 4.8437676429748535
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_2_21",
+        "percent": 4.7081618309021
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_4_11",
+        "percent": 4.538772106170654
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_2_17",
+        "percent": 4.478055000305176
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_2_20",
+        "percent": 4.454591751098633
+    },
+    {
+        "name": "RAF_ACHIEVEMENT_35",
+        "percent": 4.430657386779785
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_2_23",
+        "percent": 4.218722343444824
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_2_7",
+        "percent": 4.190789222717285
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_3_22",
+        "percent": 4.084557056427002
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_2_27",
+        "percent": 4.061093330383301
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_3_4",
+        "percent": 4.018165111541748
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_4_22",
+        "percent": 3.980999708175659
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_2_18",
+        "percent": 3.655568838119507
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_2_22",
+        "percent": 3.5555403232574463
+    },
+    {
+        "name": "DLC4_ACHIEVEMENT_05",
+        "percent": 3.372654676437378
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_2_15",
+        "percent": 3.2984421253204346
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_3_21",
+        "percent": 3.2815351486206055
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_4_0",
+        "percent": 3.2269344329833984
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_2_25",
+        "percent": 3.006030559539795
+    },
+    {
+        "name": "RAF_ACHIEVEMENT_20",
+        "percent": 2.954575538635254
+    },
+    {
+        "name": "DLC3_ACHIEVEMENT_01",
+        "percent": 2.8168230056762695
+    },
+    {
+        "name": "DLC3_ACHIEVEMENT_10",
+        "percent": 2.7973289489746094
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_3_20",
+        "percent": 2.5544025897979736
+    },
+    {
+        "name": "RAF_ACHIEVEMENT_30",
+        "percent": 2.4186203479766846
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_3_13",
+        "percent": 2.415297746658325
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_4_21",
+        "percent": 2.404036283493042
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_4_24",
+        "percent": 2.219386339187622
+    },
+    {
+        "name": "RAF_ACHIEVEMENT_36",
+        "percent": 2.1874842643737793
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_3_2",
+        "percent": 1.9666101932525635
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_4_29",
+        "percent": 1.8031889200210571
+    },
+    {
+        "name": "DLC2_ACHIEVEMENT_01",
+        "percent": 1.7749916315078735
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_3_10",
+        "percent": 1.7562034130096436
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_3_12",
+        "percent": 1.7494701147079468
+    },
+    {
+        "name": "DLC4_ACHIEVEMENT_01",
+        "percent": 1.7137749195098877
+    },
+    {
+        "name": "RAF_ACHIEVEMENT_26",
+        "percent": 1.6311235427856445
+    },
+    {
+        "name": "DLC5_ACHIEVEMENT_01",
+        "percent": 1.4143656492233276
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_4_30",
+        "percent": 1.3659685850143433
+    },
+    {
+        "name": "RAF_ACHIEVEMENT_21",
+        "percent": 1.3606760501861572
+    },
+    {
+        "name": "RAF_ACHIEVEMENT_22",
+        "percent": 1.3549718856811523
+    },
+    {
+        "name": "DLC4_ACHIEVEMENT_02",
+        "percent": 1.3133081197738647
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_5_3",
+        "percent": 1.2821409702301025
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_3_8",
+        "percent": 1.2675278186798096
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_3_15",
+        "percent": 1.254678726196289
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_3_16",
+        "percent": 1.1642061471939087
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_4_6",
+        "percent": 1.0929335355758667
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_3_17",
+        "percent": 1.0322167873382568
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_4_31",
+        "percent": 1.0100469589233398
+    },
+    {
+        "name": "RAF_ACHIEVEMENT_32",
+        "percent": 0.9986974000930786
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_4_27",
+        "percent": 0.9877007603645325
+    },
+    {
+        "name": "RAF_ACHIEVEMENT_33",
+        "percent": 0.9838196635246277
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_5_0",
+        "percent": 0.9784095287322998
+    },
+    {
+        "name": "DLC2_ACHIEVEMENT_03",
+        "percent": 0.966354250907898
+    },
+    {
+        "name": "RAF_ACHIEVEMENT_38",
+        "percent": 0.8565052151679993
+    },
+    {
+        "name": "RAF_ACHIEVEMENT_05",
+        "percent": 0.8363642692565918
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_5_1",
+        "percent": 0.8154294490814209
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_3_7",
+        "percent": 0.7699137926101685
+    },
+    {
+        "name": "DLC6_ACHIEVEMENT_02",
+        "percent": 0.7647977471351624
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_5_2",
+        "percent": 0.756241500377655
+    },
+    {
+        "name": "RAF_ACHIEVEMENT_28",
+        "percent": 0.7126664519309998
+    },
+    {
+        "name": "DLC1_ACHIEVEMENT_01",
+        "percent": 0.7035809755325317
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_4_26",
+        "percent": 0.692760705947876
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_3_6",
+        "percent": 0.6685033440589905
+    },
+    {
+        "name": "RAF_ACHIEVEMENT_09",
+        "percent": 0.6669744253158569
+    },
+    {
+        "name": "RAF_ACHIEVEMENT_31",
+        "percent": 0.5820589661598206
+    },
+    {
+        "name": "DLC6_ACHIEVEMENT_01",
+        "percent": 0.5785600543022156
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_3_5",
+        "percent": 0.5704448819160461
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_4_9",
+        "percent": 0.564387857913971
+    },
+    {
+        "name": "DLC5_ACHIEVEMENT_06",
+        "percent": 0.5122565627098083
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_3_14",
+        "percent": 0.5112274885177612
+    },
+    {
+        "name": "RAF_ACHIEVEMENT_06",
+        "percent": 0.499995619058609
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_3_11",
+        "percent": 0.4981725811958313
+    },
+    {
+        "name": "RAF_ACHIEVEMENT_03",
+        "percent": 0.49323296546936035
+    },
+    {
+        "name": "DLC2_ACHIEVEMENT_05",
+        "percent": 0.4890577495098114
+    },
+    {
+        "name": "RAF_ACHIEVEMENT_37",
+        "percent": 0.48638203740119934
+    },
+    {
+        "name": "RAF_ACHIEVEMENT_23",
+        "percent": 0.4755324125289917
+    },
+    {
+        "name": "DLC1_ACHIEVEMENT_05",
+        "percent": 0.4736212193965912
+    },
+    {
+        "name": "RAF_ACHIEVEMENT_19",
+        "percent": 0.47244513034820557
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_3_9",
+        "percent": 0.4568322002887726
+    },
+    {
+        "name": "DLC4_ACHIEVEMENT_06",
+        "percent": 0.43830838799476624
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_4_25",
+        "percent": 0.416432648897171
+    },
+    {
+        "name": "DLC1_ACHIEVEMENT_06",
+        "percent": 0.3774738907814026
+    },
+    {
+        "name": "DLC5_ACHIEVEMENT_05",
+        "percent": 0.3750040531158447
+    },
+    {
+        "name": "RAF_ACHIEVEMENT_04",
+        "percent": 0.36974093317985535
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_3_18",
+        "percent": 0.3612141013145447
+    },
+    {
+        "name": "RAF_ACHIEVEMENT_18",
+        "percent": 0.34857088327407837
+    },
+    {
+        "name": "DLC1_ACHIEVEMENT_04",
+        "percent": 0.3320464491844177
+    },
+    {
+        "name": "DLC4_ACHIEVEMENT_08",
+        "percent": 0.3297824263572693
+    },
+    {
+        "name": "DLC2_ACHIEVEMENT_04",
+        "percent": 0.3160219192504883
+    },
+    {
+        "name": "DLC3_ACHIEVEMENT_06",
+        "percent": 0.3117879033088684
+    },
+    {
+        "name": "RAF_ACHIEVEMENT_17",
+        "percent": 0.3059367537498474
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_3_3",
+        "percent": 0.30252599716186523
+    },
+    {
+        "name": "RAF_ACHIEVEMENT_01",
+        "percent": 0.29711589217185974
+    },
+    {
+        "name": "DLC3_ACHIEVEMENT_04",
+        "percent": 0.2762986719608307
+    },
+    {
+        "name": "DLC3_ACHIEVEMENT_03",
+        "percent": 0.2743580639362335
+    },
+    {
+        "name": "DLC4_ACHIEVEMENT_04",
+        "percent": 0.2743580639362335
+    },
+    {
+        "name": "DLC6_ACHIEVEMENT_03",
+        "percent": 0.2644492983818054
+    },
+    {
+        "name": "DLC3_ACHIEVEMENT_09",
+        "percent": 0.2512180209159851
+    },
+    {
+        "name": "DLC3_ACHIEVEMENT_05",
+        "percent": 0.2506299614906311
+    },
+    {
+        "name": "DLC1_ACHIEVEMENT_02",
+        "percent": 0.25001248717308044
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_4_7",
+        "percent": 0.2464841604232788
+    },
+    {
+        "name": "DLC2_ACHIEVEMENT_06",
+        "percent": 0.2461901158094406
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_3_19",
+        "percent": 0.2384277731180191
+    },
+    {
+        "name": "RAF_ACHIEVEMENT_10",
+        "percent": 0.22904826700687408
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_4_8",
+        "percent": 0.2274017035961151
+    },
+    {
+        "name": "DLC1_ACHIEVEMENT_03",
+        "percent": 0.2134353369474411
+    },
+    {
+        "name": "RAF_ACHIEVEMENT_24",
+        "percent": 0.21305310726165771
+    },
+    {
+        "name": "RAF_ACHIEVEMENT_25",
+        "percent": 0.20681968331336975
+    },
+    {
+        "name": "RAF_ACHIEVEMENT_08",
+        "percent": 0.2004098892211914
+    },
+    {
+        "name": "DLC6_ACHIEVEMENT_07",
+        "percent": 0.19473512470722198
+    },
+    {
+        "name": "DLC3_ACHIEVEMENT_08",
+        "percent": 0.19344140589237213
+    },
+    {
+        "name": "RAF_ACHIEVEMENT_07",
+        "percent": 0.1893250048160553
+    },
+    {
+        "name": "DLC1_ACHIEVEMENT_07",
+        "percent": 0.18373845517635345
+    },
+    {
+        "name": "DLC2_ACHIEVEMENT_02",
+        "percent": 0.18120980262756348
+    },
+    {
+        "name": "RAF_ACHIEVEMENT_29",
+        "percent": 0.16053959727287292
+    },
+    {
+        "name": "DLC3_ACHIEVEMENT_07",
+        "percent": 0.15933409333229065
+    },
+    {
+        "name": "DLC3_ACHIEVEMENT_02",
+        "percent": 0.15283605456352234
+    },
+    {
+        "name": "RAF_ACHIEVEMENT_02",
+        "percent": 0.1400752067565918
+    },
+    {
+        "name": "RAF_ACHIEVEMENT_14",
+        "percent": 0.14001640677452087
+    },
+    {
+        "name": "DLC6_ACHIEVEMENT_10",
+        "percent": 0.13654686510562897
+    },
+    {
+        "name": "DLC6_ACHIEVEMENT_06",
+        "percent": 0.13545896112918854
+    },
+    {
+        "name": "RAF_ACHIEVEMENT_15",
+        "percent": 0.13143077492713928
+    },
+    {
+        "name": "RAF_ACHIEVEMENT_12",
+        "percent": 0.12546199560165405
+    },
+    {
+        "name": "DLC4_ACHIEVEMENT_03",
+        "percent": 0.1217278316617012
+    },
+    {
+        "name": "DLC4_ACHIEVEMENT_09",
+        "percent": 0.12066932022571564
+    },
+    {
+        "name": "DLC6_ACHIEVEMENT_09",
+        "percent": 0.1204046979546547
+    },
+    {
+        "name": "DLC5_ACHIEVEMENT_09",
+        "percent": 0.11822888255119324
+    },
+    {
+        "name": "DLC5_ACHIEVEMENT_3",
+        "percent": 0.11652351915836334
+    },
+    {
+        "name": "DLC4_ACHIEVEMENT_10",
+        "percent": 0.11608248203992844
+    },
+    {
+        "name": "DLC6_ACHIEVEMENT_05",
+        "percent": 0.11176025867462158
+    },
+    {
+        "name": "DLC6_ACHIEVEMENT_08",
+        "percent": 0.11008429527282715
+    },
+    {
+        "name": "DLC5_ACHIEVEMENT_02",
+        "percent": 0.10996668040752411
+    },
+    {
+        "name": "DLC5_ACHIEVEMENT_10",
+        "percent": 0.10585027933120728
+    },
+    {
+        "name": "DLC5_ACHIEVEMENT_07",
+        "percent": 0.0980585366487503
+    },
+    {
+        "name": "DLC5_ACHIEVEMENT_08",
+        "percent": 0.09744106978178024
+    },
+    {
+        "name": "DLC4_ACHIEVEMENT_07",
+        "percent": 0.08388635516166687
+    },
+    {
+        "name": "RAF_ACHIEVEMENT_27",
+        "percent": 0.0792112946510315
+    },
+    {
+        "name": "RAF_ACHIEVEMENT_11",
+        "percent": 0.07900547981262207
+    },
+    {
+        "name": "RAF_ACHIEVEMENT_13",
+        "percent": 0.07530071586370468
+    },
+    {
+        "name": "DLC6_ACHIEVEMENT_04",
+        "percent": 0.0724780410528183
+    },
+    {
+        "name": "DLC5_ACHIEVEMENT_4",
+        "percent": 0.068626269698143
+    },
+    {
+        "name": "RAF_ACHIEVEMENT_16",
+        "percent": 0.06109913811087608
+    },
+    {
+        "name": "RAF_ACHIEVEMENT_34",
+        "percent": 0.044310107827186584
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_5_27",
+        "percent": 0.0003234314499422908
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_5_19",
+        "percent": 0.0003234314499422908
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_5_20",
+        "percent": 0.0003234314499422908
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_5_26",
+        "percent": 0.0003234314499422908
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_5_21",
+        "percent": 0.0003234314499422908
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_5_22",
+        "percent": 0.0003234314499422908
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_5_23",
+        "percent": 0.0003234314499422908
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_5_24",
+        "percent": 0.0003234314499422908
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_5_25",
+        "percent": 0.0003234314499422908
+    },
+    {
+        "name": "NEW_ACHIEVEMENT_5_18",
+        "percent": 0.0003234314499422908
+    },
+    {
+        "name": "DLC5_ACHIEVEMENT_04",
+        "percent": 0.00014701428881380707
+    },
+    {
+        "name": "DLC5_ACHIEVEMENT_03",
+        "percent": 0.00014701428881380707
+    }
+]
