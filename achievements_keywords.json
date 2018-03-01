@@ -410,6 +410,11 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/55e2b86dc5ada75b4295945ac7e872e7dce34ce9.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "cs-la_venta",
+            "district-holy_site",
+            "building-temple"
+        ],
         "name": "NEW_ACHIEVEMENT_3_1"
     },
     {
