@@ -111,7 +111,7 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/10e1f60706143d2d0ed05b532fa58b9c0de471bf.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "difficulty"
+            "victory-science"
         ],
         "name": "NEW_ACHIEVEMENT_2_8"
     },
@@ -123,7 +123,8 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/d8ab5716df374dc658b4fc311cf549d1da64fd3a.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "difficulty"
+            "difficulty",
+            "victory-science"
         ],
         "name": "NEW_ACHIEVEMENT_2_9"
     },
@@ -135,7 +136,8 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/ca6c8eac932db838f35c412fd9497023b656a78f.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "difficulty"
+            "difficulty",
+            "victory-science"
         ],
         "name": "NEW_ACHIEVEMENT_2_10"
     },
@@ -147,7 +149,8 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/280e2e021f662e6b253b9824f46944d7752e1128.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "difficulty"
+            "difficulty",
+            "victory-science"
         ],
         "name": "NEW_ACHIEVEMENT_2_11"
     },
@@ -839,7 +842,8 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/304b3ddb9123747c73838763e43755e11ec64464.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "difficulty"
+            "difficulty",
+            "victory-science"
         ],
         "name": "NEW_ACHIEVEMENT_4_24"
     },
@@ -850,6 +854,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/9141750c69a56021425d5bcda0aa6e6e87027ea0.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "victory-science"
+        ],
         "name": "NEW_ACHIEVEMENT_4_25"
     },
     {
@@ -859,6 +866,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/237a58dd1a23dd69e1aa18d6d09fddbc05f3d378.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "victory-science"
+        ],
         "name": "NEW_ACHIEVEMENT_4_26"
     },
     {
@@ -869,7 +879,8 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/9027765c86e1930584197f78e728d7e69b6610cb.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "difficulty"
+            "difficulty",
+            "victory-science"
         ],
         "name": "NEW_ACHIEVEMENT_4_27"
     },
@@ -1589,6 +1600,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/b92eb5adf139d728995f9e54f0e44ec15af937d6.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+        "keywords": [
+            "victory-science"
+        ],
         "name": "RAF_ACHIEVEMENT_12"
     },
     {
