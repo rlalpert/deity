@@ -7,7 +7,8 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/007c03740680788b98da8aaf1d99c63534815103.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "difficulty"
+            "difficulty",
+            "difficulty-settler"
         ],
         "name": "NEW_ACHIEVEMENT_2_0"
     },
@@ -483,6 +484,10 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/60832869ad0a71715c7fcedffe5454814e678863.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "difficulty-settler",
+            "difficulty-settler"
+        ],
         "name": "NEW_ACHIEVEMENT_3_17"
     },
     {

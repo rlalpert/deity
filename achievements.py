@@ -4,12 +4,12 @@ import json
 # civ_vi_id = "289070"
 
 
-with open("achievements_full.json", "r") as f:
+with open("achievements_keywords.json", "r") as f:
     items = json.load(f)
 
 for item in items:
-    if "difficult" in item["description"]:
-        item.setdefault("keywords", []).append("difficulty")
+    if ("difficulty" and "settler") in item["description"].lower():
+        item.setdefault("keywords", []).append("difficulty-settler")
 
 with open("achievements_keywords.json", "w") as f:
     json.dump(items, f, sort_keys=True, indent=4)
