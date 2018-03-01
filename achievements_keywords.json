@@ -72,7 +72,8 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/6a9d828a146f8dcd267ad738e644415682a82331.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "difficulty"
+            "difficulty",
+            "difficulty-emperor"
         ],
         "name": "NEW_ACHIEVEMENT_2_5"
     },
