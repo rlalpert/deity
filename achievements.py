@@ -8,8 +8,8 @@ with open("achievements_keywords.json", "r") as f:
     items = json.load(f)
 
 for item in items:
-    if "temple" in item["description"].lower():
-        item.setdefault("keywords", []).append("building-temple")
+    if "yosemite" in item["description"].lower():
+        item.setdefault("keywords", []).append("nw-yosemite")
 
 with open("achievements_keywords.json", "w") as f:
     json.dump(items, f, sort_keys=True, indent=4)

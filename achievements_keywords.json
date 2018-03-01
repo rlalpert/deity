@@ -424,6 +424,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/e6ca30dbdf3729ad394062163c3a5876bfd66167.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "cs-nan_madol"
+        ],
         "name": "NEW_ACHIEVEMENT_3_2"
     },
     {
@@ -434,7 +437,10 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/420deaebf1ca782937806bc02ea3670de9ad0c07.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "civ-america"
+            "civ-america",
+            "national_park",
+            "nw-crater_lake",
+            "nw-yosemite"
         ],
         "name": "NEW_ACHIEVEMENT_3_3"
     },
