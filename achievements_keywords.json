@@ -413,7 +413,8 @@
         "keywords": [
             "cs-la_venta",
             "district-holy_site",
-            "building-temple"
+            "building-temple",
+            "ui-colossal_head"
         ],
         "name": "NEW_ACHIEVEMENT_3_1"
     },
@@ -451,6 +452,10 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/9cbe3f5d61f4ffa35971d3b7c3c90e475aa773e9.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "uu-mamluk",
+            "civ-arabia"
+        ],
         "name": "NEW_ACHIEVEMENT_3_4"
     },
     {
@@ -461,7 +466,8 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/673cf395d54371721deb6869a6589dd6cfbf9468.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "civ-aztec"
+            "civ-aztec",
+            "map-standard"
         ],
         "name": "NEW_ACHIEVEMENT_3_5"
     },
@@ -473,7 +479,9 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/eadf8985f6d81efdbf2a9e4fa63a4f09b69c935d.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "civ-brazil"
+            "civ-brazil",
+            "wonder-estadio_do_maracana",
+            "wonder-christo_redentor"
         ],
         "name": "NEW_ACHIEVEMENT_3_6"
     },
@@ -485,7 +493,9 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/055fb0d73672ece7efa2f6c264f20468c156d4bb.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "civ-china"
+            "civ-china",
+            "uu-crouching_tiger",
+            "ui-great_wall"
         ],
         "name": "NEW_ACHIEVEMENT_3_7"
     },
