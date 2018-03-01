@@ -59,7 +59,8 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/29d7c58b97642b1252fcdbbf5bedaf0dbb211140.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "difficulty"
+            "difficulty",
+            "difficulty-king"
         ],
         "name": "NEW_ACHIEVEMENT_2_4"
     },
@@ -489,7 +490,8 @@
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
             "difficulty-settler",
-            "difficulty-settler"
+            "difficulty-settler",
+            "difficulty-king"
         ],
         "name": "NEW_ACHIEVEMENT_3_17"
     },
@@ -983,6 +985,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/243e867ee05ce5dd31475bb002b893c91bb3f5ae.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "difficulty-king"
+        ],
         "name": "DLC1_ACHIEVEMENT_04"
     },
     {
@@ -992,6 +997,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/ebcf6c0112a4269d1d195ddeb837f833101683b7.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "difficulty-king"
+        ],
         "name": "DLC1_ACHIEVEMENT_05"
     },
     {
@@ -1001,6 +1009,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/869f15260d2083a777dcb8df429f3bd0b3a4bfb7.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "difficulty-king"
+        ],
         "name": "DLC1_ACHIEVEMENT_06"
     },
     {
@@ -1011,7 +1022,8 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/97b3182bbbdca47444f750d4096458ed7c24b9ce.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "difficulty"
+            "difficulty",
+            "difficulty-king"
         ],
         "name": "DLC1_ACHIEVEMENT_07"
     },
