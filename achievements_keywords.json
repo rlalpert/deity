@@ -85,7 +85,8 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c3b0519cf885984ae64a80356adb46dbf6963523.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "difficulty"
+            "difficulty",
+            "difficulty-immortal"
         ],
         "name": "NEW_ACHIEVEMENT_2_6"
     },
@@ -97,7 +98,8 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/0bc83fc6a8c6ee08c7fd840b33e234daffb13703.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "difficulty"
+            "difficulty",
+            "difficulty-deity"
         ],
         "name": "NEW_ACHIEVEMENT_2_7"
     },
@@ -1024,7 +1026,8 @@
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
             "difficulty",
-            "difficulty-king"
+            "difficulty-king",
+            "difficulty-deity"
         ],
         "name": "DLC1_ACHIEVEMENT_07"
     },
@@ -1081,7 +1084,8 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/35dabb64efdd985449d11553b3d590c4fce2536e.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "difficulty"
+            "difficulty",
+            "difficulty-deity"
         ],
         "name": "DLC2_ACHIEVEMENT_06"
     },
@@ -1147,7 +1151,8 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/9e018cdaf1e29284de381504e49c809c1e600883.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "difficulty"
+            "difficulty",
+            "difficulty-deity"
         ],
         "name": "DLC3_ACHIEVEMENT_07"
     },
@@ -1243,7 +1248,8 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/29dc14cface70bba2b5b22fff994d8ced8c4e2d2.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "difficulty"
+            "difficulty",
+            "difficulty-deity"
         ],
         "name": "DLC4_ACHIEVEMENT_07"
     },
@@ -1266,6 +1272,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/40a5b02b5bc45037c4bb46406c08ac4de0662280.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "difficulty-immortal"
+        ],
         "name": "DLC4_ACHIEVEMENT_09"
     },
     {
@@ -1342,7 +1351,8 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/f222310340729cb21accdf7b6adc68a025129eb0.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "difficulty"
+            "difficulty",
+            "difficulty-deity"
         ],
         "name": "DLC5_ACHIEVEMENT_07"
     },
@@ -1354,7 +1364,8 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/27f9b97ac28c9006ab1bd822f71a6cfb48c48ebc.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "difficulty"
+            "difficulty",
+            "difficulty-deity"
         ],
         "name": "DLC5_ACHIEVEMENT_08"
     },
@@ -1413,6 +1424,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/3feaba16da314db8eda71df91cb2fee7391dbf98.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+        "keywords": [
+            "difficulty-deity"
+        ],
         "name": "DLC6_ACHIEVEMENT_04"
     },
     {
