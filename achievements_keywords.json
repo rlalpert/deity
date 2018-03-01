@@ -158,6 +158,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/470e9c46b209f3f0aa0e1ef36550faccae16b4ee.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-germany"
+        ],
         "name": "NEW_ACHIEVEMENT_2_12"
     },
     {
@@ -167,6 +170,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/e764f16e5aff1e258b739dbbdbbf7737512de180.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-france"
+        ],
         "name": "NEW_ACHIEVEMENT_2_13"
     },
     {
@@ -176,6 +182,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/96b97432b922b4392c6adf2908fb16fb9f37418a.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-egypt"
+        ],
         "name": "NEW_ACHIEVEMENT_2_14"
     },
     {
@@ -185,6 +194,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/cbd302998ad4d822b3828f84c5f833c2aeba32c7.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-india"
+        ],
         "name": "NEW_ACHIEVEMENT_2_15"
     },
     {
@@ -194,6 +206,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/99f3540220f1530435b6568858d83b6f43b2505f.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-sumeria"
+        ],
         "name": "NEW_ACHIEVEMENT_2_16"
     },
     {
@@ -203,6 +218,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/370ce82ae3fd2fec193c17297948ae0e32be01f5.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-greece-gorgo"
+        ],
         "name": "NEW_ACHIEVEMENT_2_17"
     },
     {
@@ -212,6 +230,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/e448f076517e5cbdf98e85e71d533f4f03de992a.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-norway"
+        ],
         "name": "NEW_ACHIEVEMENT_2_18"
     },
     {
@@ -221,6 +242,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29a44b01aa549b71ff090faba4ae40a2ad0d8fb.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-japan"
+        ],
         "name": "NEW_ACHIEVEMENT_2_19"
     },
     {
@@ -230,6 +254,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/b8cb586938237e7879d6c6a29846bc8fcc236189.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-aztec"
+        ],
         "name": "NEW_ACHIEVEMENT_2_20"
     },
     {
@@ -239,6 +266,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/cf8825564953b8f9b86a36eeda7da068f1dd1dca.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-kongo"
+        ],
         "name": "NEW_ACHIEVEMENT_2_21"
     },
     {
@@ -248,6 +278,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/063b58eb02f12206edd67eedb790abf185380691.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-brazil"
+        ],
         "name": "NEW_ACHIEVEMENT_2_22"
     },
     {
@@ -257,6 +290,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/62d1323f74770e4bceaa2023df1aa345b1cb2046.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-greece-pericles"
+        ],
         "name": "NEW_ACHIEVEMENT_2_23"
     },
     {
@@ -266,6 +302,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/ded38f6e619ae37417420f5794c3d6b3e25046a2.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-russia"
+        ],
         "name": "NEW_ACHIEVEMENT_2_24"
     },
     {
@@ -275,6 +314,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/7d785069678366b5529761dbbd16d9fd474a2f6d.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-spain"
+        ],
         "name": "NEW_ACHIEVEMENT_2_25"
     },
     {
@@ -284,6 +326,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/2d8750f3168be9f28d48a17b48ba1cb2bcf5b8e4.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-china"
+        ],
         "name": "NEW_ACHIEVEMENT_2_26"
     },
     {
@@ -293,6 +338,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/03e651bf6d06737c5175d0f875d4fdb2899d7f77.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-arabia"
+        ],
         "name": "NEW_ACHIEVEMENT_2_27"
     },
     {
@@ -302,6 +350,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/500f9c2d8f992f82478531bee50aa3c945e8a467.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-scythia"
+        ],
         "name": "NEW_ACHIEVEMENT_2_28"
     },
     {
@@ -311,6 +362,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/ee8b6b69a69f2faac6a74d65e0a67640debdb60b.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-rome"
+        ],
         "name": "NEW_ACHIEVEMENT_2_29"
     },
     {
@@ -320,6 +374,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/297a4e62b58c0defab6ace0c3f2eeadf18d93da0.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-america"
+        ],
         "name": "NEW_ACHIEVEMENT_2_30"
     },
     {
@@ -329,6 +386,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/e718c0c4d3fabfe2de8cc074ae0630ab6a74a3d1.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-england"
+        ],
         "name": "NEW_ACHIEVEMENT_2_31"
     },
     {
@@ -338,6 +398,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/8bcf6042e93b1bde291d1309fa411685b25895ff.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "cs-hattusa"
+        ],
         "name": "NEW_ACHIEVEMENT_3_0"
     },
     {
@@ -365,6 +428,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/420deaebf1ca782937806bc02ea3670de9ad0c07.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-america"
+        ],
         "name": "NEW_ACHIEVEMENT_3_3"
     },
     {
@@ -383,6 +449,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/673cf395d54371721deb6869a6589dd6cfbf9468.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-aztec"
+        ],
         "name": "NEW_ACHIEVEMENT_3_5"
     },
     {
@@ -392,6 +461,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/eadf8985f6d81efdbf2a9e4fa63a4f09b69c935d.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-brazil"
+        ],
         "name": "NEW_ACHIEVEMENT_3_6"
     },
     {
@@ -401,6 +473,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/055fb0d73672ece7efa2f6c264f20468c156d4bb.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-china"
+        ],
         "name": "NEW_ACHIEVEMENT_3_7"
     },
     {
@@ -410,6 +485,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/7abe3993bfa387e3a985d60dc3d9c87034f3eb0d.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-egypt"
+        ],
         "name": "NEW_ACHIEVEMENT_3_8"
     },
     {
@@ -428,6 +506,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/f3d4ec4156891856b2475f5e1e2f118744015146.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-england"
+        ],
         "name": "NEW_ACHIEVEMENT_3_10"
     },
     {
@@ -446,6 +527,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/f1b0ed3d7e727cc45192e0e8866de47edcb88181.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-germany"
+        ],
         "name": "NEW_ACHIEVEMENT_3_12"
     },
     {
@@ -464,6 +548,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/82ca169464f60d40ba06739297b0463f7e094a56.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-india"
+        ],
         "name": "NEW_ACHIEVEMENT_3_14"
     },
     {
@@ -473,6 +560,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/ba44f890c2810ac045da69f0b1fcec24c37c7875.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-japan"
+        ],
         "name": "NEW_ACHIEVEMENT_3_15"
     },
     {
@@ -482,6 +572,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/8f486b8e0c21fee6e1816fde0f9f2ad70a1a4fdd.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-kongo"
+        ],
         "name": "NEW_ACHIEVEMENT_3_16"
     },
     {
@@ -514,6 +607,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/3647de3baeadc8c18d3f85ed98733207fb4ab49b.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-russia"
+        ],
         "name": "NEW_ACHIEVEMENT_3_19"
     },
     {
@@ -523,6 +619,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/af4c45ed3697624f6d2afcb99c181b6735bc5d34.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-scythia"
+        ],
         "name": "NEW_ACHIEVEMENT_3_20"
     },
     {
@@ -532,6 +631,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/73289c82948610e4ec2c5618d65a5154343a5f43.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-spain"
+        ],
         "name": "NEW_ACHIEVEMENT_3_21"
     },
     {
@@ -541,6 +643,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/22e2fce95fee33c6c148858ab1c8b4cbefc80d77.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-sumeria"
+        ],
         "name": "NEW_ACHIEVEMENT_3_22"
     },
     {
@@ -840,7 +945,8 @@
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
             "difficulty",
-            "victory-science"
+            "victory-science",
+            "civ-egypt"
         ],
         "name": "NEW_ACHIEVEMENT_4_24"
     },
@@ -987,6 +1093,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/45e97883c48502727fd38078ea1d40fafc05bd0e.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-rome"
+        ],
         "name": "DLC1_ACHIEVEMENT_03"
     },
     {
@@ -1009,7 +1118,8 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/ebcf6c0112a4269d1d195ddeb837f833101683b7.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "difficulty-king"
+            "difficulty-king",
+            "civ-norway"
         ],
         "name": "DLC1_ACHIEVEMENT_05"
     },
@@ -1140,6 +1250,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/dfca5ebcea00af6e226f3a7e00cbd523358c1fff.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-england"
+        ],
         "name": "DLC3_ACHIEVEMENT_05"
     },
     {
@@ -1225,6 +1338,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/683457f3233afcdcb5c3953e713ebb98024e4f30.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-scythia"
+        ],
         "name": "DLC4_ACHIEVEMENT_04"
     },
     {
@@ -1292,6 +1408,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/e34d38b18bc6503780d42662d8eab67c0ea31929.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-scythia"
+        ],
         "name": "DLC4_ACHIEVEMENT_10"
     },
     {
@@ -1319,6 +1438,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/760231ccddff81df6611374941c5cb2aa5e97f05.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-egypt"
+        ],
         "name": "DLC5_ACHIEVEMENT_3"
     },
     {
@@ -1328,6 +1450,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/1f3a9c41babec65a23bfa68c90e46645f23d2459.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-egypt"
+        ],
         "name": "DLC5_ACHIEVEMENT_4"
     },
     {
@@ -1360,7 +1485,8 @@
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
             "difficulty",
-            "difficulty-deity"
+            "difficulty-deity",
+            "civ-egypt"
         ],
         "name": "DLC5_ACHIEVEMENT_07"
     },
@@ -1393,6 +1519,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/b087f9ef29af135db1ba5dc679f8ed2aa8c75014.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-egypt"
+        ],
         "name": "DLC5_ACHIEVEMENT_10"
     },
     {
@@ -1706,6 +1835,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/9af7b4b662ac616c2ecc316685c4fcc92a5187d7.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+        "keywords": [
+            "civ-france"
+        ],
         "name": "RAF_ACHIEVEMENT_24"
     },
     {
@@ -1715,6 +1847,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/6acba74e9b5c8c6862c9fd6acb16332f15ea62f9.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+        "keywords": [
+            "civ-sumeria"
+        ],
         "name": "RAF_ACHIEVEMENT_25"
     },
     {
@@ -1796,6 +1931,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/ffef52cc3c04de3d551ba6a43311528bc2ada620.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+        "keywords": [
+            "civ-england"
+        ],
         "name": "RAF_ACHIEVEMENT_34"
     },
     {
