@@ -33,7 +33,8 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/d356d0e71850a067f609fa37b5f612947a82bc5c.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "difficulty"
+            "difficulty",
+            "difficulty-warlord"
         ],
         "name": "NEW_ACHIEVEMENT_2_2"
     },
