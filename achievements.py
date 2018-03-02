@@ -7,9 +7,22 @@ import json
 with open("achievements_keywords.json", "r") as f:
     items = json.load(f)
 
+all_keywords = set()
+
 for item in items:
-    if "great wall" in item["description"].lower():
-        item.setdefault("keywords", []).append("ui-great_wall")
+    # if "floodplains" in item["description"].lower():
+    #     item.setdefault("keywords", []).append("terrain-floodplains")
+    # add all keywords to file
+    if "keywords" in item.keys():
+        for key in item["keywords"]:
+            all_keywords.add(key)
 
 with open("achievements_keywords.json", "w") as f:
     json.dump(items, f, sort_keys=True, indent=4)
+
+all_keywords = list(all_keywords)
+all_keywords.sort()
+
+with open("keywords.txt", "w") as f:
+    for keyword in all_keywords:
+        f.write(str(keyword)+ "\n")
