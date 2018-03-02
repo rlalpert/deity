@@ -1,4 +1,5 @@
 access-top_secret
+building-lumbermill
 building-sewer
 building-temple
 city-new_york
@@ -25,6 +26,7 @@ civ-greece-pericles
 civ-india
 civ-japan
 civ-kongo
+civ-macedonia
 civ-norway
 civ-poland
 civ-rome
@@ -74,6 +76,7 @@ natural_wonder-giants_causeway
 natural_wonder-yosemite
 nuclear_device
 religion-zoroastrianism
+resource-bonus-sheep
 resource-luxury-silver
 resource-luxury-wine
 start_era-ancient
@@ -85,6 +88,8 @@ start_era-medieval
 start_era-modern
 start_era-renaissance
 terrain-floodplains
+tile_improvement-oil_well
+tile_improvement-pasture
 tile_improvement-unique-alcazar
 tile_improvement-unique-châteaux
 tile_improvement-unique-colossal_head

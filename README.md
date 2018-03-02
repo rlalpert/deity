@@ -20,5 +20,4 @@ Working on a better way of tracking Civ VI Steam achievements.
   * `gw-creator-donatello` ?
 * **Seven Wonders of the Post-Apocalyptic World** achievement
   * `thermonuclear_device` keyword?
-
-# current place - outback tycoon
+* Scenario-specific keywords?

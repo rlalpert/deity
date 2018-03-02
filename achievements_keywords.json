@@ -1385,7 +1385,10 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/eca7892c3c7aeb20a125187fd7bf70e286bb6fc8.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "civ-australia"
+            "civ-australia",
+            "tile_improvement-pasture",
+            "resource-bonus-sheep",
+            "building-lumbermill"
         ],
         "name": "DLC3_ACHIEVEMENT_02"
     },
@@ -1405,9 +1408,7 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/b01fa9961ca0d9894979eff187b2268341637da8.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
-        "keywords": [
-            "civ-australia"
-        ],
+        "keywords": [],
         "name": "DLC3_ACHIEVEMENT_04"
     },
     {
@@ -1417,9 +1418,7 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/dfca5ebcea00af6e226f3a7e00cbd523358c1fff.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
-        "keywords": [
-            "civ-england"
-        ],
+        "keywords": [],
         "name": "DLC3_ACHIEVEMENT_05"
     },
     {
@@ -1429,9 +1428,7 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/f90e8b168873d8e9f948634f6442e2725893a149.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
-        "keywords": [
-            "civ-australia"
-        ],
+        "keywords": [],
         "name": "DLC3_ACHIEVEMENT_06"
     },
     {
@@ -1465,6 +1462,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/4ed4ea1d320b4510ebb98482931d1d4e2b714008.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "tile_improvement-oil_well"
+        ],
         "name": "DLC3_ACHIEVEMENT_09"
     },
     {
@@ -1474,9 +1474,7 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/a81d05135878fe7eace87b59c96b0021877fd437.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
-        "keywords": [
-            "civ-australia"
-        ],
+        "keywords": [],
         "name": "DLC3_ACHIEVEMENT_10"
     },
     {
@@ -1486,6 +1484,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/f9bfe03d8d9d9ffa87d1f71849fa8d66013adf09.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-macedonia"
+        ],
         "name": "DLC4_ACHIEVEMENT_01"
     },
     {
@@ -1534,7 +1535,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/87373be6cdee0a372ba2d2d49846fbac3c5e598d.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
-        "keywords": [],
+        "keywords": [
+            "civ-macedonia"
+        ],
         "name": "DLC4_ACHIEVEMENT_06"
     },
     {
@@ -1545,7 +1548,8 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/29dc14cface70bba2b5b22fff994d8ced8c4e2d2.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "difficulty-deity"
+            "difficulty-deity",
+            "civ-macedonia"
         ],
         "name": "DLC4_ACHIEVEMENT_07"
     },
@@ -1556,7 +1560,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/17bed67c78e413c372b88b2eff5253f933fcc4f9.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
-        "keywords": [],
+        "keywords": [
+            "civ-macedonia"
+        ],
         "name": "DLC4_ACHIEVEMENT_08"
     },
     {
@@ -1568,7 +1574,8 @@
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
             "difficulty-immortal",
-            "unit-unique-saka_horse_archer"
+            "unit-unique-saka_horse_archer",
+            "civ-macedonia"
         ],
         "name": "DLC4_ACHIEVEMENT_09"
     },
