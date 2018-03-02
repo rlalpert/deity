@@ -21,3 +21,4 @@ Working on a better way of tracking Civ VI Steam achievements.
 * **Seven Wonders of the Post-Apocalyptic World** achievement
   * `thermonuclear_device` keyword?
 * Scenario-specific keywords?
+* Turn-specific keywords?

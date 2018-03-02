@@ -1496,6 +1496,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/27c12aeee619e0933e43a108b73b9739232b2ea8.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-persia"
+        ],
         "name": "DLC4_ACHIEVEMENT_02"
     },
     {
@@ -1505,6 +1508,11 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/6566437ea3084bbb705e22a51fc8c8d504e2b277.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-macedonia",
+            "wonder-great_library",
+            "wonder-great_lighthouse"
+        ],
         "name": "DLC4_ACHIEVEMENT_03"
     },
     {
@@ -1515,7 +1523,8 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/683457f3233afcdcb5c3953e713ebb98024e4f30.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "civ-scythia"
+            "civ-persia",
+            "civ-scythia-enemy"
         ],
         "name": "DLC4_ACHIEVEMENT_04"
     },
@@ -1526,6 +1535,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/63ff905299cc783c2cc4ccbeb2ba5de44b5c7dc7.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "wonder-apadana"
+        ],
         "name": "DLC4_ACHIEVEMENT_05"
     },
     {
@@ -1535,9 +1547,7 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/87373be6cdee0a372ba2d2d49846fbac3c5e598d.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
-        "keywords": [
-            "civ-macedonia"
-        ],
+        "keywords": [],
         "name": "DLC4_ACHIEVEMENT_06"
     },
     {
@@ -1548,8 +1558,7 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/29dc14cface70bba2b5b22fff994d8ced8c4e2d2.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "difficulty-deity",
-            "civ-macedonia"
+            "difficulty-deity"
         ],
         "name": "DLC4_ACHIEVEMENT_07"
     },
@@ -1560,9 +1569,7 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/17bed67c78e413c372b88b2eff5253f933fcc4f9.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
-        "keywords": [
-            "civ-macedonia"
-        ],
+        "keywords": [],
         "name": "DLC4_ACHIEVEMENT_08"
     },
     {
@@ -1573,9 +1580,11 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/40a5b02b5bc45037c4bb46406c08ac4de0662280.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "difficulty-immortal",
             "unit-unique-saka_horse_archer",
-            "civ-macedonia"
+            "unit-unique-hoplite",
+            "unit-unique-maryannu_chariot_archer",
+            "unit-unique-varu",
+            "unit-unique-immortal"
         ],
         "name": "DLC4_ACHIEVEMENT_09"
     },
@@ -1587,7 +1596,8 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/e34d38b18bc6503780d42662d8eab67c0ea31929.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "civ-scythia"
+            "civ-scythia",
+            "civ-persia-enemy"
         ],
         "name": "DLC4_ACHIEVEMENT_10"
     },
@@ -1598,6 +1608,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/7d1e50e02c740a216c92fdcf89d97a745cd5f421.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-nubia"
+        ],
         "name": "DLC5_ACHIEVEMENT_01"
     },
     {
@@ -1607,6 +1620,10 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/bbe2bf0b07a770201bea98831afc18f7f03d19f9.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-nubia",
+            "tile_improvement-unique-nubian_pyramid"
+        ],
         "name": "DLC5_ACHIEVEMENT_02"
     },
     {
@@ -1617,7 +1634,8 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/760231ccddff81df6611374941c5cb2aa5e97f05.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "civ-egypt"
+            "civ-egypt",
+            "civ-nubia-enemy"
         ],
         "name": "DLC5_ACHIEVEMENT_3"
     },
@@ -1629,7 +1647,8 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/1f3a9c41babec65a23bfa68c90e46645f23d2459.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "civ-egypt"
+            "civ-egypt-enemy",
+            "civ-nubia"
         ],
         "name": "DLC5_ACHIEVEMENT_4"
     },
@@ -1640,6 +1659,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/14f635712c25b674ad28def292d8654822fec944.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "wonder-jebel_barkal"
+        ],
         "name": "DLC5_ACHIEVEMENT_05"
     },
     {
@@ -1673,7 +1695,8 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/27f9b97ac28c9006ab1bd822f71a6cfb48c48ebc.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "difficulty-deity"
+            "difficulty-deity",
+            "civ-nubia"
         ],
         "name": "DLC5_ACHIEVEMENT_08"
     },
@@ -1684,6 +1707,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/7ade28cc9cfe6c0592a73f384613e89cd6cb2e20.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-nubia"
+        ],
         "name": "DLC5_ACHIEVEMENT_09"
     },
     {
