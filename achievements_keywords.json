@@ -399,7 +399,7 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/8bcf6042e93b1bde291d1309fa411685b25895ff.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "cs-hattusa"
+            "city_state-hattusa"
         ],
         "name": "NEW_ACHIEVEMENT_3_0"
     },
@@ -411,10 +411,10 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/55e2b86dc5ada75b4295945ac7e872e7dce34ce9.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "cs-la_venta",
             "district-holy_site",
             "building-temple",
-            "tile_improvement-unique-colossal_head"
+            "tile_improvement-unique-colossal_head",
+            "city_state-la_venta"
         ],
         "name": "NEW_ACHIEVEMENT_3_1"
     },
@@ -426,7 +426,7 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/e6ca30dbdf3729ad394062163c3a5876bfd66167.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "cs-nan_madol"
+            "city_state-nan_madol"
         ],
         "name": "NEW_ACHIEVEMENT_3_2"
     },
@@ -562,7 +562,7 @@
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
             "civ-germany",
-            "cs-jerusalem"
+            "city_state-jerusalem"
         ],
         "name": "NEW_ACHIEVEMENT_3_12"
     },
@@ -664,8 +664,8 @@
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
             "civ-scythia",
-            "form-army",
-            "unit-unique-saka_horse_archer"
+            "unit-unique-saka_horse_archer",
+            "formation-army"
         ],
         "name": "NEW_ACHIEVEMENT_3_20"
     },
@@ -678,7 +678,7 @@
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
             "civ-spain",
-            "ru-apostle"
+            "unit-religious-apostle"
         ],
         "name": "NEW_ACHIEVEMENT_3_21"
     },
@@ -703,8 +703,8 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/029a340279a91e24c027cc9c8116a8f2c1f91c4e.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "gp-darwin",
-            "nw-galapagos_islands"
+            "nw-galapagos_islands",
+            "great_person-darwin"
         ],
         "name": "NEW_ACHIEVEMENT_3_23"
     },
@@ -716,8 +716,8 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/59a7e7466947c2eab833166eb5f3a1a0b10cd6bb.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "form-army",
-            "form-armada"
+            "formation-army",
+            "formation-armada"
         ],
         "name": "NEW_ACHIEVEMENT_3_24"
     },
@@ -893,11 +893,11 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/f1896e756ace88260bf7edcfc7b26ec2c2ca4836.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "gp-leonardo_da_vinci",
             "city-new_york",
             "building-sewer",
             "gw-creator-donatello",
-            "gw-creator-michelangelo"
+            "gw-creator-michelangelo",
+            "great_person-leonardo_da_vinci"
         ],
         "name": "NEW_ACHIEVEMENT_4_8"
     },
@@ -943,7 +943,7 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/59feeea786cb651d28aced29cda420703af15909.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "gamemode-multiplayer"
+            "game_mode-multiplayer"
         ],
         "name": "NEW_ACHIEVEMENT_4_12"
     },
@@ -955,8 +955,8 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/9cd05d47bd2dd0196da1e0dd51656a507f715ac4.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "form-corps",
-            "form-fleet"
+            "formation-corps",
+            "formation-fleet"
         ],
         "name": "NEW_ACHIEVEMENT_4_13"
     },
@@ -1068,9 +1068,9 @@
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
             "victory-science",
-            "gp-darwin",
-            "gp-newton",
-            "civ-egypt-enemy"
+            "civ-egypt-enemy",
+            "great_person-darwin",
+            "great_person-newton"
         ],
         "name": "NEW_ACHIEVEMENT_4_24"
     },
@@ -1084,7 +1084,7 @@
         "keywords": [
             "victory-religious",
             "religion-zoroastrianism",
-            "cs-zanzibar"
+            "city_state-zanzibar"
         ],
         "name": "NEW_ACHIEVEMENT_4_25"
     },
@@ -1230,9 +1230,9 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/55b5383c82ab5dea2fb925d6d9911283df9e5248.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "cs-granada",
             "wonder-alhambra",
-            "tile_improvement-unique-alcazar"
+            "tile_improvement-unique-alcazar",
+            "city_state-granada"
         ],
         "name": "DLC1_ACHIEVEMENT_01"
     },
@@ -1245,8 +1245,8 @@
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
             "nw-giants_causeway",
-            "cs-armagh",
-            "tile_improvement-unique-monastery"
+            "tile_improvement-unique-monastery",
+            "city_state-armagh"
         ],
         "name": "DLC1_ACHIEVEMENT_02"
     },
@@ -1463,7 +1463,7 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/35af4f5eb0fb938a4db5d5cdf3923c7c52522742.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "gamemode-multiplayer"
+            "game_mode-multiplayer"
         ],
         "name": "DLC3_ACHIEVEMENT_08"
     },
