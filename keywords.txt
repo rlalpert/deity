@@ -4,6 +4,7 @@ building-temple
 city-new_york
 civ-america
 civ-arabia
+civ-australia
 civ-aztec
 civ-brazil
 civ-china
@@ -18,12 +19,14 @@ civ-india
 civ-japan
 civ-kongo
 civ-norway
+civ-poland
 civ-rome
 civ-russia
 civ-scythia
 civ-spain
 civ-sumeria
 continent-nena
+cs-armagh
 cs-granada
 cs-hattusa
 cs-jerusalem
@@ -39,6 +42,7 @@ difficulty-king
 difficulty-prince
 difficulty-settler
 difficulty-warlord
+district-aerodrome
 district-holy_site
 form-armada
 form-army
@@ -67,7 +71,9 @@ map-tiny
 national_park
 nuclear_device
 nw-crater_lake
+nw-eyjafjallajökull
 nw-galapagos_islands
+nw-giants_causeway
 nw-yosemite
 religion-zoroastrianism
 res-lux-silver
@@ -87,6 +93,7 @@ ui-alcazar
 ui-châteaux
 ui-colossal_head
 ui-great_wall
+ui-monastery
 ui-sphinx
 unit-builder
 unit-observation_balloon
