@@ -1,4 +1,6 @@
+building-sewer
 building-temple
+city-new_york
 civ-america
 civ-arabia
 civ-aztec
@@ -19,6 +21,7 @@ civ-russia
 civ-scythia
 civ-spain
 civ-sumeria
+continent-nena
 cs-hattusa
 cs-jerusalem
 cs-la_venta
@@ -36,6 +39,9 @@ district-holy_site
 form-armada
 form-army
 gp-darwin
+gp-leonardo_da_vinci
+gw-creator-donatello
+gw-creator-michelangelo
 map-continents
 map-duel
 map-huge
@@ -48,6 +54,7 @@ map-small
 map-standard
 map-tiny
 national_park
+nuclear_device
 nw-crater_lake
 nw-galapagos_islands
 nw-yosemite
@@ -59,6 +66,7 @@ ui-châteaux
 ui-colossal_head
 ui-great_wall
 ui-sphinx
+unit-observation_balloon
 unit-settler
 unit-slinger
 uu-crouching_tiger

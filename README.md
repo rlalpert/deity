@@ -14,3 +14,11 @@ Working on a better way of tracking Civ VI Steam achievements.
   * **Epic of Gilgamesh** achievement
 * Tech Boost / Culture Boost (Generic)
   * **Archimedes Bath** and **Civ 6 Civets System** achievements
+* Promotion levels 
+* Unit class
+  * **Luftballons** achievement
+* **Pizza Party!** achievement -- good lord:
+  * `gw-creator-michelangelo` ?
+  * `gw-creator-donatello` ?
+* **Seven Wonders of the Post-Apocalyptic World** achievement
+  * `thermonuclear_device` keyword?

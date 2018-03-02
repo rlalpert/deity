@@ -877,6 +877,11 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/bfb377abe6c1bc2dc37a0b1244b3899504488090.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "continent-nena",
+            "unit-observation_balloon",
+            "nuclear_device"
+        ],
         "name": "NEW_ACHIEVEMENT_4_7"
     },
     {
@@ -886,6 +891,13 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/f1896e756ace88260bf7edcfc7b26ec2c2ca4836.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "gp-leonardo_da_vinci",
+            "city-new_york",
+            "building-sewer",
+            "gw-creator-donatello",
+            "gw-creator-michelangelo"
+        ],
         "name": "NEW_ACHIEVEMENT_4_8"
     },
     {
