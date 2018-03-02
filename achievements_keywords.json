@@ -547,7 +547,9 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/e709ba4c6ff453bd62a70acdbe82c2b536880420.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "ui-ch\u00e2teaux"
+            "ui-ch\u00e2teaux",
+            "civ-france",
+            "res-lux-wine"
         ],
         "name": "NEW_ACHIEVEMENT_3_11"
     },
@@ -559,7 +561,8 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/f1b0ed3d7e727cc45192e0e8866de47edcb88181.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "civ-germany"
+            "civ-germany",
+            "cs-jerusalem"
         ],
         "name": "NEW_ACHIEVEMENT_3_12"
     },
@@ -570,6 +573,10 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/05ff46fc723d554ee72181070be857d0c86f77a6.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "civ-greece-pericles",
+            "civ-greece-gorgo"
+        ],
         "name": "NEW_ACHIEVEMENT_3_13"
     },
     {
@@ -617,9 +624,8 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/60832869ad0a71715c7fcedffe5454814e678863.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "difficulty-settler",
-            "difficulty-settler",
-            "difficulty-king"
+            "unit-settler",
+            "uu-viking_longship"
         ],
         "name": "NEW_ACHIEVEMENT_3_17"
     },
@@ -630,6 +636,10 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/a98998848022d0e3d3bdad918c3dcdd328dd360c.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "uu-roman_legion",
+            "civ-rome"
+        ],
         "name": "NEW_ACHIEVEMENT_3_18"
     },
     {
@@ -640,7 +650,8 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/3647de3baeadc8c18d3f85ed98733207fb4ab49b.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "civ-russia"
+            "civ-russia",
+            "trade_route"
         ],
         "name": "NEW_ACHIEVEMENT_3_19"
     },
@@ -652,7 +663,8 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/af4c45ed3697624f6d2afcb99c181b6735bc5d34.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "civ-scythia"
+            "civ-scythia",
+            "uu-saka_horse_archer"
         ],
         "name": "NEW_ACHIEVEMENT_3_20"
     },
@@ -1432,7 +1444,8 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/40a5b02b5bc45037c4bb46406c08ac4de0662280.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "difficulty-immortal"
+            "difficulty-immortal",
+            "uu-saka_horse_archer"
         ],
         "name": "DLC4_ACHIEVEMENT_09"
     },
