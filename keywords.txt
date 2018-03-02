@@ -33,7 +33,6 @@ civ-scythia
 civ-spain
 civ-sumeria
 continent-nena
-difficulty
 difficulty-chieftain
 difficulty-deity
 difficulty-emperor
@@ -68,6 +67,7 @@ map-small
 map-standard
 map-tiny
 national_park
+natural_wonder-crater_lake
 natural_wonder-eyjafjallajökull
 natural_wonder-galapagos_islands
 natural_wonder-giants_causeway

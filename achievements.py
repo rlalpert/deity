@@ -14,11 +14,9 @@ for item in items:
     #     item.setdefault("keywords", []).append("civ-australia")
     # add all keywords to file
     if "keywords" in item.keys():
+        if "difficulty" in item["keywords"]:
+            item["keywords"].remove("difficulty")
         for key in item["keywords"]:
-            if key.startswith("nw-yosemite"):
-                item["keywords"].remove(key)
-                key = "natural_wonder-yosemite"
-                item["keywords"].append(key)
             all_keywords.add(key)
 
 with open("achievements_keywords.json", "w") as f:
