@@ -24,6 +24,7 @@ civ-scythia
 civ-spain
 civ-sumeria
 continent-nena
+cs-granada
 cs-hattusa
 cs-jerusalem
 cs-la_venta
@@ -53,6 +54,7 @@ gw-type-art
 gw-type-writing
 map-continents
 map-duel
+map-fractal
 map-huge
 map-inland_sea
 map-island_plates
@@ -81,6 +83,7 @@ start-modern_era
 start-renaissance_era
 terrain-floodplains
 trade_route
+ui-alcazar
 ui-châteaux
 ui-colossal_head
 ui-great_wall
@@ -99,6 +102,7 @@ victory-culture
 victory-domination
 victory-religious
 victory-science
+wonder-alhambra
 wonder-christo_redentor
 wonder-colosseum
 wonder-estadio_do_maracana
