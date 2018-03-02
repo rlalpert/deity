@@ -414,7 +414,7 @@
             "cs-la_venta",
             "district-holy_site",
             "building-temple",
-            "ui-colossal_head"
+            "tile_improvement-unique-colossal_head"
         ],
         "name": "NEW_ACHIEVEMENT_3_1"
     },
@@ -453,8 +453,8 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/9cbe3f5d61f4ffa35971d3b7c3c90e475aa773e9.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "uu-mamluk",
-            "civ-arabia"
+            "civ-arabia",
+            "unit-unique-mamluk"
         ],
         "name": "NEW_ACHIEVEMENT_3_4"
     },
@@ -494,8 +494,8 @@
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
             "civ-china",
-            "uu-crouching_tiger",
-            "ui-great_wall"
+            "unit-unique-crouching_tiger",
+            "tile_improvement-unique-great_wall"
         ],
         "name": "NEW_ACHIEVEMENT_3_7"
     },
@@ -508,9 +508,9 @@
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
             "civ-egypt",
-            "ui-sphinx",
             "wonder-pyramids",
-            "terrain-floodplains"
+            "terrain-floodplains",
+            "tile_improvement-unique-sphinx"
         ],
         "name": "NEW_ACHIEVEMENT_3_8"
     },
@@ -547,9 +547,9 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/e709ba4c6ff453bd62a70acdbe82c2b536880420.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "ui-ch\u00e2teaux",
             "civ-france",
-            "res-lux-wine"
+            "res-lux-wine",
+            "tile_improvement-unique-ch\u00e2teaux"
         ],
         "name": "NEW_ACHIEVEMENT_3_11"
     },
@@ -625,7 +625,7 @@
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
             "unit-settler",
-            "uu-viking_longship"
+            "unit-unique-viking_longship"
         ],
         "name": "NEW_ACHIEVEMENT_3_17"
     },
@@ -637,8 +637,8 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/a98998848022d0e3d3bdad918c3dcdd328dd360c.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "uu-roman_legion",
-            "civ-rome"
+            "civ-rome",
+            "unit-unique-roman_legion"
         ],
         "name": "NEW_ACHIEVEMENT_3_18"
     },
@@ -664,8 +664,8 @@
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
             "civ-scythia",
-            "uu-saka_horse_archer",
-            "form-army"
+            "form-army",
+            "unit-unique-saka_horse_archer"
         ],
         "name": "NEW_ACHIEVEMENT_3_20"
     },
@@ -1231,8 +1231,8 @@
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
             "cs-granada",
-            "ui-alcazar",
-            "wonder-alhambra"
+            "wonder-alhambra",
+            "tile_improvement-unique-alcazar"
         ],
         "name": "DLC1_ACHIEVEMENT_01"
     },
@@ -1246,7 +1246,7 @@
         "keywords": [
             "nw-giants_causeway",
             "cs-armagh",
-            "ui-monastery"
+            "tile_improvement-unique-monastery"
         ],
         "name": "DLC1_ACHIEVEMENT_02"
     },
@@ -1582,7 +1582,7 @@
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
             "difficulty-immortal",
-            "uu-saka_horse_archer"
+            "unit-unique-saka_horse_archer"
         ],
         "name": "DLC4_ACHIEVEMENT_09"
     },
