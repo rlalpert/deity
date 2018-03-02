@@ -690,7 +690,8 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/22e2fce95fee33c6c148858ab1c8b4cbefc80d77.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "civ-sumeria"
+            "civ-sumeria",
+            "gw-type-writing"
         ],
         "name": "NEW_ACHIEVEMENT_3_22"
     },
@@ -916,6 +917,10 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/667827c21ca62bf5ca20e1310ce31611f4b2ae6a.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "gw-type-art",
+            "unit-spy"
+        ],
         "name": "NEW_ACHIEVEMENT_4_10"
     },
     {
@@ -925,6 +930,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/384528aea59127341d17846efa6517e9f340bf57.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "wonder-colosseum"
+        ],
         "name": "NEW_ACHIEVEMENT_4_11"
     },
     {
@@ -934,6 +942,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/59feeea786cb651d28aced29cda420703af15909.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "gamemode-multiplayer"
+        ],
         "name": "NEW_ACHIEVEMENT_4_12"
     },
     {
@@ -943,6 +954,10 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/9cd05d47bd2dd0196da1e0dd51656a507f715ac4.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "form-corps",
+            "form-fleet"
+        ],
         "name": "NEW_ACHIEVEMENT_4_13"
     },
     {
@@ -952,6 +967,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/6858293f2952c7fb17a94667b0d823e67445dc4c.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "unit-builder"
+        ],
         "name": "NEW_ACHIEVEMENT_4_14"
     },
     {
@@ -1015,6 +1033,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/5ce4861059556be756374a1a7999f7d693fdb530.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "access-top_secret"
+        ],
         "name": "NEW_ACHIEVEMENT_4_21"
     },
     {
@@ -1024,6 +1045,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/3e072fe9b810c06a9fc02fd64e155a30b9626672.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "res-lux-silver"
+        ],
         "name": "NEW_ACHIEVEMENT_4_22"
     },
     {
@@ -1043,10 +1067,10 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/304b3ddb9123747c73838763e43755e11ec64464.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "difficulty",
             "victory-science",
-            "civ-egypt",
-            "gp-darwin"
+            "gp-darwin",
+            "gp-newton",
+            "civ-egypt-enemy"
         ],
         "name": "NEW_ACHIEVEMENT_4_24"
     },
@@ -1058,7 +1082,9 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/9141750c69a56021425d5bcda0aa6e6e87027ea0.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "victory-religious"
+            "victory-religious",
+            "religion-zoroastrianism",
+            "cs-zanzibar"
         ],
         "name": "NEW_ACHIEVEMENT_4_25"
     },
@@ -1082,9 +1108,9 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/9027765c86e1930584197f78e728d7e69b6610cb.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "difficulty",
             "victory-domination",
-            "map-island_plates"
+            "map-island_plates",
+            "map-huge"
         ],
         "name": "NEW_ACHIEVEMENT_4_27"
     },
@@ -1095,6 +1121,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/8a76fd086be66dc69161a2c6d3885c0ede6e0331.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "start-ancient_era"
+        ],
         "name": "NEW_ACHIEVEMENT_4_28"
     },
     {
@@ -1104,6 +1133,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/94141b835294153722d8b59af93a4ff376ee85d8.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "start-classical_era"
+        ],
         "name": "NEW_ACHIEVEMENT_4_29"
     },
     {
@@ -1113,6 +1145,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/7747e2fc72c7ce67e23f5a2a2c9ac0354bc6b4d6.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "start-medieval_era"
+        ],
         "name": "NEW_ACHIEVEMENT_4_30"
     },
     {
@@ -1122,6 +1157,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/006c72f339ba375d104685036c7c2ea37d3b304d.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "start-renaissance_era"
+        ],
         "name": "NEW_ACHIEVEMENT_4_31"
     },
     {
@@ -1131,6 +1169,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/21afee4fd1e2c99f7d16b525ab9b7b27a0285f0e.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "start-industrial_era"
+        ],
         "name": "NEW_ACHIEVEMENT_5_0"
     },
     {
@@ -1140,6 +1181,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/6ada009c447ff2036e9a4d28353fc72af92972b6.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "start-modern_era"
+        ],
         "name": "NEW_ACHIEVEMENT_5_1"
     },
     {
@@ -1149,6 +1193,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/0bc5ed0ef2c812a85103020ebb144ae606703251.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "start-atomic_era"
+        ],
         "name": "NEW_ACHIEVEMENT_5_2"
     },
     {
@@ -1158,6 +1205,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c0e1fe7d1540b0f32312af44b25e497b7e0a3eb4.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "start-information_era"
+        ],
         "name": "NEW_ACHIEVEMENT_5_3"
     },
     {
@@ -1385,6 +1435,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/35af4f5eb0fb938a4db5d5cdf3923c7c52522742.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "gamemode-multiplayer"
+        ],
         "name": "DLC3_ACHIEVEMENT_08"
     },
     {

@@ -10,8 +10,6 @@ Working on a better way of tracking Civ VI Steam achievements.
 
 # Keyword I'm Unsure of?
 
-* Great Work, generalized (should I make this a keyword?)
-  * **Epic of Gilgamesh** achievement
 * Tech Boost / Culture Boost (Generic)
   * **Archimedes Bath** and **Civ 6 Civets System** achievements
 * Promotion levels 
