@@ -7,3 +7,10 @@ Working on a better way of tracking Civ VI Steam achievements.
 * [Civ VI entry at steamdb.info](https://steamdb.info/app/289070/info/)
 * [Steam Web API 🤮](https://developer.valvesoftware.com/wiki/Steam_Web_API)
 * [Requests package documentation](http://docs.python-requests.org/en/master/)
+
+# Keyword I'm Unsure of?
+
+* Great Work, generalized (should I make this a keyword?)
+  * **Epic of Gilgamesh** achievement
+* Tech Boost / Culture Boost (Generic)
+  * **Archimedes Bath** and **Civ 6 Civets System** achievements

@@ -10,8 +10,8 @@ with open("achievements_keywords.json", "r") as f:
 all_keywords = set()
 
 for item in items:
-    if "saka horse archer" in item["description"].lower():
-        item.setdefault("keywords", []).append("uu-saka_horse_archer")
+    if "pangaea map" in item["description"].lower():
+        item.setdefault("keywords", []).append("map-pangaea")
     # add all keywords to file
     if "keywords" in item.keys():
         for key in item["keywords"]:

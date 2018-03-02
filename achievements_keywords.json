@@ -664,7 +664,8 @@
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
             "civ-scythia",
-            "uu-saka_horse_archer"
+            "uu-saka_horse_archer",
+            "form-army"
         ],
         "name": "NEW_ACHIEVEMENT_3_20"
     },
@@ -676,7 +677,8 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/73289c82948610e4ec2c5618d65a5154343a5f43.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "civ-spain"
+            "civ-spain",
+            "ru-apostle"
         ],
         "name": "NEW_ACHIEVEMENT_3_21"
     },
@@ -699,6 +701,10 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/029a340279a91e24c027cc9c8116a8f2c1f91c4e.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "gp-darwin",
+            "nw-galapagos_islands"
+        ],
         "name": "NEW_ACHIEVEMENT_3_23"
     },
     {
@@ -708,6 +714,10 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/59a7e7466947c2eab833166eb5f3a1a0b10cd6bb.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "form-army",
+            "form-armada"
+        ],
         "name": "NEW_ACHIEVEMENT_3_24"
     },
     {
@@ -717,6 +727,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/d553341fdff88278f56f5c39ab1d0af5db59625f.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "map-duel"
+        ],
         "name": "NEW_ACHIEVEMENT_3_25"
     },
     {
@@ -726,6 +739,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/aeb9bf2ae9e0402d982859664e14660ba26e0b14.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "map-tiny"
+        ],
         "name": "NEW_ACHIEVEMENT_3_26"
     },
     {
@@ -735,6 +751,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/20039b637769f57be8e5baae13fad5f4624867e5.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "map-small"
+        ],
         "name": "NEW_ACHIEVEMENT_3_27"
     },
     {
@@ -744,6 +763,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/6a3384394f9e40dd39472fad20272beadd38ecb8.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "map-standard"
+        ],
         "name": "NEW_ACHIEVEMENT_3_28"
     },
     {
@@ -753,6 +775,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/3788f99f81770a54942a196d26237edfd86308d0.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "map-large"
+        ],
         "name": "NEW_ACHIEVEMENT_3_29"
     },
     {
@@ -774,6 +799,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/54e8694823f4845b8fe65b37cab149356c754f9b.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "map-continents"
+        ],
         "name": "NEW_ACHIEVEMENT_3_31"
     },
     {
@@ -783,6 +811,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/d7039a4cc9e818b6ff1b11ab1811ddb12808929a.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "map-inland_sea"
+        ],
         "name": "NEW_ACHIEVEMENT_4_0"
     },
     {
@@ -792,6 +823,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/dace57f931b0b1d7580754354cb7c721ab7ba83e.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "map-island_plates"
+        ],
         "name": "NEW_ACHIEVEMENT_4_1"
     },
     {
@@ -801,6 +835,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/4bec220712e0b5f01c4096cd8683cb6da33eae52.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "map-shuffle"
+        ],
         "name": "NEW_ACHIEVEMENT_4_2"
     },
     {
@@ -810,6 +847,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/e0e0d6515a4692d55992ce57b9d34333f276e676.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "map-pangaea"
+        ],
         "name": "NEW_ACHIEVEMENT_4_3"
     },
     {
@@ -993,7 +1033,8 @@
         "keywords": [
             "difficulty",
             "victory-science",
-            "civ-egypt"
+            "civ-egypt",
+            "gp-darwin"
         ],
         "name": "NEW_ACHIEVEMENT_4_24"
     },
@@ -1030,7 +1071,8 @@
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
             "difficulty",
-            "victory-domination"
+            "victory-domination",
+            "map-island_plates"
         ],
         "name": "NEW_ACHIEVEMENT_4_27"
     },
