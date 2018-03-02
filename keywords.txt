@@ -32,14 +32,17 @@ difficulty-prince
 difficulty-settler
 difficulty-warlord
 district-holy_site
+map-huge
 map-standard
 national_park
 nw-crater_lake
 nw-yosemite
 terrain-floodplains
+ui-châteaux
 ui-colossal_head
 ui-great_wall
 ui-sphinx
+unit-slinger
 uu-crouching_tiger
 uu-mamluk
 victory-culture

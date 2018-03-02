@@ -521,6 +521,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c03a594c97140ddba9ac8719f828f1038edd2131.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "unit-slinger"
+        ],
         "name": "NEW_ACHIEVEMENT_3_9"
     },
     {
@@ -531,7 +534,8 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/f3d4ec4156891856b2475f5e1e2f118744015146.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "civ-england"
+            "civ-england",
+            "map-huge"
         ],
         "name": "NEW_ACHIEVEMENT_3_10"
     },
@@ -542,6 +546,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/e709ba4c6ff453bd62a70acdbe82c2b536880420.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "ui-ch\u00e2teaux"
+        ],
         "name": "NEW_ACHIEVEMENT_3_11"
     },
     {
@@ -573,7 +580,8 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/82ca169464f60d40ba06739297b0463f7e094a56.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "civ-india"
+            "civ-india",
+            "map-huge"
         ],
         "name": "NEW_ACHIEVEMENT_3_14"
     },
@@ -742,6 +750,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/df6e4f15162305ab745241f971f1a8741487bbc9.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+        "keywords": [
+            "map-huge"
+        ],
         "name": "NEW_ACHIEVEMENT_3_30"
     },
     {
