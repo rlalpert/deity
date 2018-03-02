@@ -15,9 +15,9 @@ for item in items:
     # add all keywords to file
     if "keywords" in item.keys():
         for key in item["keywords"]:
-            if key.startswith("gp-"):
+            if key.startswith("nw-yosemite"):
                 item["keywords"].remove(key)
-                key = "great_person-" + key.split("-")[1]
+                key = "natural_wonder-yosemite"
                 item["keywords"].append(key)
             all_keywords.add(key)
 

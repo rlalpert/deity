@@ -440,8 +440,8 @@
         "keywords": [
             "civ-america",
             "national_park",
-            "nw-crater_lake",
-            "nw-yosemite"
+            "natural_wonder-crater_lake",
+            "natural_wonder-yosemite"
         ],
         "name": "NEW_ACHIEVEMENT_3_3"
     },
@@ -548,8 +548,8 @@
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
             "civ-france",
-            "res-lux-wine",
-            "tile_improvement-unique-ch\u00e2teaux"
+            "tile_improvement-unique-ch\u00e2teaux",
+            "resource-luxury-wine"
         ],
         "name": "NEW_ACHIEVEMENT_3_11"
     },
@@ -691,7 +691,7 @@
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
             "civ-sumeria",
-            "gw-type-writing"
+            "great_work-type"
         ],
         "name": "NEW_ACHIEVEMENT_3_22"
     },
@@ -703,8 +703,8 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/029a340279a91e24c027cc9c8116a8f2c1f91c4e.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "nw-galapagos_islands",
-            "great_person-darwin"
+            "great_person-darwin",
+            "natural_wonder-galapagos_islands"
         ],
         "name": "NEW_ACHIEVEMENT_3_23"
     },
@@ -895,9 +895,9 @@
         "keywords": [
             "city-new_york",
             "building-sewer",
-            "gw-creator-donatello",
             "gw-creator-michelangelo",
-            "great_person-leonardo_da_vinci"
+            "great_person-leonardo_da_vinci",
+            "great_work-creator"
         ],
         "name": "NEW_ACHIEVEMENT_4_8"
     },
@@ -918,8 +918,8 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/667827c21ca62bf5ca20e1310ce31611f4b2ae6a.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "gw-type-art",
-            "unit-spy"
+            "unit-spy",
+            "great_work-type"
         ],
         "name": "NEW_ACHIEVEMENT_4_10"
     },
@@ -1046,7 +1046,7 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/3e072fe9b810c06a9fc02fd64e155a30b9626672.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "res-lux-silver"
+            "resource-luxury-silver"
         ],
         "name": "NEW_ACHIEVEMENT_4_22"
     },
@@ -1122,7 +1122,7 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/8a76fd086be66dc69161a2c6d3885c0ede6e0331.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "start-ancient_era"
+            "start_era-ancient"
         ],
         "name": "NEW_ACHIEVEMENT_4_28"
     },
@@ -1134,7 +1134,7 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/94141b835294153722d8b59af93a4ff376ee85d8.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "start-classical_era"
+            "start_era-classical"
         ],
         "name": "NEW_ACHIEVEMENT_4_29"
     },
@@ -1146,7 +1146,7 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/7747e2fc72c7ce67e23f5a2a2c9ac0354bc6b4d6.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "start-medieval_era"
+            "start_era-medieval"
         ],
         "name": "NEW_ACHIEVEMENT_4_30"
     },
@@ -1158,7 +1158,7 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/006c72f339ba375d104685036c7c2ea37d3b304d.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "start-renaissance_era"
+            "start_era-renaissance"
         ],
         "name": "NEW_ACHIEVEMENT_4_31"
     },
@@ -1170,7 +1170,7 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/21afee4fd1e2c99f7d16b525ab9b7b27a0285f0e.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "start-industrial_era"
+            "start_era-industrial"
         ],
         "name": "NEW_ACHIEVEMENT_5_0"
     },
@@ -1182,7 +1182,7 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/6ada009c447ff2036e9a4d28353fc72af92972b6.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "start-modern_era"
+            "start_era-modern"
         ],
         "name": "NEW_ACHIEVEMENT_5_1"
     },
@@ -1194,7 +1194,7 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/0bc5ed0ef2c812a85103020ebb144ae606703251.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "start-atomic_era"
+            "start_era-atomic"
         ],
         "name": "NEW_ACHIEVEMENT_5_2"
     },
@@ -1206,7 +1206,7 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c0e1fe7d1540b0f32312af44b25e497b7e0a3eb4.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "start-information_era"
+            "start_era-information"
         ],
         "name": "NEW_ACHIEVEMENT_5_3"
     },
@@ -1244,9 +1244,9 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/265ab5194eedbc557b3b43e4204d28b2f64b24e1.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
-            "nw-giants_causeway",
             "tile_improvement-unique-monastery",
-            "city_state-armagh"
+            "city_state-armagh",
+            "natural_wonder-giants_causeway"
         ],
         "name": "DLC1_ACHIEVEMENT_02"
     },
@@ -1259,7 +1259,7 @@
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
         "keywords": [
             "district-aerodrome",
-            "nw-eyjafjallaj\u00f6kull"
+            "natural_wonder-eyjafjallaj\u00f6kull"
         ],
         "name": "DLC1_ACHIEVEMENT_03"
     },
