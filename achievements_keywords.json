@@ -1731,6 +1731,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/46959756b852907ee881e8d72f60081a7a8cb1ba.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+        "keywords": [
+            "civ-khmer"
+        ],
         "name": "DLC6_ACHIEVEMENT_01"
     },
     {
@@ -1740,6 +1743,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/ae954620d3a4a996a38eec9e1ccdadfb44af6b2c.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+        "keywords": [
+            "civ-indonesia"
+        ],
         "name": "DLC6_ACHIEVEMENT_02"
     },
     {
@@ -1771,6 +1777,11 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/b3afbbabbf9059291e18a0658d15f4da31a9e137.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+        "keywords": [
+            "wonder-angkor_wat",
+            "building-wat",
+            "city-angkor_wat"
+        ],
         "name": "DLC6_ACHIEVEMENT_05"
     },
     {
@@ -1780,6 +1791,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/3d607801be4b7c940920f76021567170d9a8e735.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+        "keywords": [
+            "civ-indonesia"
+        ],
         "name": "DLC6_ACHIEVEMENT_06"
     },
     {

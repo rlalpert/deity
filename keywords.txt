@@ -2,6 +2,8 @@ access-top_secret
 building-lumbermill
 building-sewer
 building-temple
+building-wat
+city-angkor_wat
 city-new_york
 city_state-armagh
 city_state-granada
@@ -24,7 +26,9 @@ civ-germany
 civ-greece-gorgo
 civ-greece-pericles
 civ-india
+civ-indonesia
 civ-japan
+civ-khmer
 civ-kongo
 civ-macedonia
 civ-norway
@@ -123,6 +127,7 @@ victory-domination
 victory-religious
 victory-science
 wonder-alhambra
+wonder-angkor_wat
 wonder-apadana
 wonder-christo_redentor
 wonder-colosseum
