@@ -1,6 +1,8 @@
 access-top_secret
+building-intelligence_agency
 building-lumbermill
 building-sewer
+building-shopping_mall
 building-temple
 building-wat
 city-angkor_wat
@@ -96,10 +98,12 @@ natural_wonder-crater_lake
 natural_wonder-eyjafjallajökull
 natural_wonder-galapagos_islands
 natural_wonder-giants_causeway
+natural_wonder-great_barrier_reef
 natural_wonder-yosemite
 nuclear_device
 religion-zoroastrianism
 resource-bonus-sheep
+resource-luxury-olives
 resource-luxury-silver
 resource-luxury-wine
 start_era-ancient
@@ -111,6 +115,7 @@ start_era-medieval
 start_era-modern
 start_era-renaissance
 terrain-floodplains
+tile_improvement-fishery
 tile_improvement-oil_well
 tile_improvement-pasture
 tile_improvement-unique-alcazar

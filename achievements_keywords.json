@@ -2119,7 +2119,8 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/9af7b4b662ac616c2ecc316685c4fcc92a5187d7.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
         "keywords": [
-            "civ-france"
+            "civ-france",
+            "building-intelligence_agency"
         ],
         "name": "RAF_ACHIEVEMENT_24"
     },
@@ -2142,6 +2143,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/a0928176d9a0c94823135fbf98de4f9d4ed39ef1.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+        "keywords": [
+            "unit-spy"
+        ],
         "name": "RAF_ACHIEVEMENT_26"
     },
     {
@@ -2151,6 +2155,10 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/cd55e58305ee7edf589e2b2d120808b49d50ead8.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+        "keywords": [
+            "tile_improvement-fishery",
+            "natural_wonder-great_barrier_reef"
+        ],
         "name": "RAF_ACHIEVEMENT_27"
     },
     {
@@ -2160,6 +2168,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/027884a14410c8beebbab3c6791a3c727204ea79.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+        "keywords": [
+            "resource-luxury-olives"
+        ],
         "name": "RAF_ACHIEVEMENT_28"
     },
     {
@@ -2169,6 +2180,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/53847df15cf20eb798bc5b606162512830bab974.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+        "keywords": [
+            "building-shopping_mall"
+        ],
         "name": "RAF_ACHIEVEMENT_29"
     },
     {
