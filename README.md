@@ -27,3 +27,6 @@ Working on a better way of tracking Civ VI Steam achievements.
 
 * Unsure of some of the xpac achievements:
   * **Desperate Times Call For Desperate Measures** achievement
+
+* Ages
+  * Dark, Heroic, Golden

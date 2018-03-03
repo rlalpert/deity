@@ -74,6 +74,7 @@ formation-army
 formation-corps
 formation-fleet
 game_mode-multiplayer
+great_person-admiral-ferdinand_magellan
 great_person-darwin
 great_person-leonardo_da_vinci
 great_person-newton

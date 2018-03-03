@@ -2210,6 +2210,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/96e7c7aa58c944915f73538451ea3a36ba64f431.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+        "keywords": [
+            "great_person-admiral-ferdinand_magellan"
+        ],
         "name": "RAF_ACHIEVEMENT_32"
     },
     {
