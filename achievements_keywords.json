@@ -1803,6 +1803,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/55455e257325616c7910952b8bad105ef1bc7d59.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+        "keywords": [
+            "unit-warrior_monk"
+        ],
         "name": "DLC6_ACHIEVEMENT_07"
     },
     {
@@ -1812,6 +1815,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/a66605e5b5f2cf718c406f274f4d9817b685ffae.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+        "keywords": [
+            "unit-guru"
+        ],
         "name": "DLC6_ACHIEVEMENT_08"
     },
     {
@@ -1839,6 +1845,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/8a22a804f1f8e6600e6be23616311d9f338254f3.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+        "keywords": [
+            "civ-zulu"
+        ],
         "name": "RAF_ACHIEVEMENT_01"
     },
     {
@@ -1848,6 +1857,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/3f26f76d2807037109f40799b5ed1a53794c1831.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+        "keywords": [
+            "civ-india-chandragupta"
+        ],
         "name": "RAF_ACHIEVEMENT_02"
     },
     {
@@ -1857,6 +1869,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/a367cdab4e0264caa335bb8240963e438bb30a4f.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+        "keywords": [
+            "civ-dutch"
+        ],
         "name": "RAF_ACHIEVEMENT_03"
     },
     {
@@ -1866,6 +1881,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/2cbe9ed6f6be410e6976fcdb569e249d0a2f14d3.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+        "keywords": [
+            "civ-mongolia"
+        ],
         "name": "RAF_ACHIEVEMENT_04"
     },
     {
@@ -1875,6 +1893,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/a70c226c54510bff314f57922988e2e05efa3bde.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+        "keywords": [
+            "civ-korea"
+        ],
         "name": "RAF_ACHIEVEMENT_05"
     },
     {
@@ -1884,6 +1905,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/6fbd441ec3d785a11f64b1589a62f31b3bcaef4e.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+        "keywords": [
+            "civ-scotland"
+        ],
         "name": "RAF_ACHIEVEMENT_06"
     },
     {
@@ -1893,6 +1917,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/209675e055969b37f27d6053f29a60058b9998fa.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+        "keywords": [
+            "civ-georgia"
+        ],
         "name": "RAF_ACHIEVEMENT_07"
     },
     {
@@ -1902,6 +1929,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/845d2a81ce24bff28fb484b8164c8af41c588a8a.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+        "keywords": [
+            "civ-mapuche"
+        ],
         "name": "RAF_ACHIEVEMENT_08"
     },
     {
@@ -1911,6 +1941,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/d54b32021b3ddaa0085f9928f95886ef7d05df2c.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+        "keywords": [
+            "civ-cree"
+        ],
         "name": "RAF_ACHIEVEMENT_09"
     },
     {
@@ -1920,6 +1953,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/ed33ffb9e74d86f233945a214224d5277eca3c38.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+        "keywords": [
+            "map-archipelago"
+        ],
         "name": "RAF_ACHIEVEMENT_10"
     },
     {
@@ -1929,6 +1965,10 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/3afe9d81ce0687fa78cc25e45f56478720650e44.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+        "keywords": [
+            "civ-mapuche",
+            "civ-spain-enemy"
+        ],
         "name": "RAF_ACHIEVEMENT_11"
     },
     {
@@ -1938,7 +1978,10 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/b92eb5adf139d728995f9e54f0e44ec15af937d6.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
-        "keywords": [],
+        "keywords": [
+            "civ-mongolia",
+            "victory-culture"
+        ],
         "name": "RAF_ACHIEVEMENT_12"
     },
     {
@@ -1948,6 +1991,10 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/bfd978308bb9de8a948bb2072d916eab08cedc96.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+        "keywords": [
+            "unit-unique-zeven_de_provincien",
+            "civ-dutch"
+        ],
         "name": "RAF_ACHIEVEMENT_13"
     },
     {
@@ -1966,6 +2013,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/8c4c3ee9300901a43c34dbe75d115b28f9f0cd32.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+        "keywords": [
+            "civ-cree"
+        ],
         "name": "RAF_ACHIEVEMENT_15"
     },
     {
@@ -1975,6 +2025,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/da0a12c00ff832fec10270091f2e984da2fd2616.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+        "keywords": [
+            "civ-india-chandragupta"
+        ],
         "name": "RAF_ACHIEVEMENT_16"
     },
     {
@@ -1993,6 +2046,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/56634d287f87483bcb0214c35f61b4ad35632c64.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+        "keywords": [
+            "civ-zulu"
+        ],
         "name": "RAF_ACHIEVEMENT_18"
     },
     {
@@ -2002,6 +2058,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/9665575627582d3ef08b753ad804dd5b603a5e21.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+        "keywords": [
+            "civ-georgia"
+        ],
         "name": "RAF_ACHIEVEMENT_19"
     },
     {
