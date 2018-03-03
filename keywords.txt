@@ -1,10 +1,12 @@
 access-top_secret
+building-archaeological_museum
 building-intelligence_agency
 building-lumbermill
 building-sewer
 building-shopping_mall
 building-temple
 building-wat
+building-zoo
 city-angkor_wat
 city-new_york
 city_state-armagh
@@ -65,6 +67,7 @@ difficulty-prince
 difficulty-settler
 difficulty-warlord
 district-aerodrome
+district-government_plaza
 district-holy_site
 district-spaceport
 district-unique-ikanda
@@ -104,6 +107,7 @@ natural_wonder-yosemite
 nuclear_device
 religion-zoroastrianism
 resource-bonus-sheep
+resource-luxury-amber
 resource-luxury-olives
 resource-luxury-silver
 resource-luxury-wine

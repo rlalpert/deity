@@ -2261,6 +2261,11 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/b48836680e8c5d67dbfeb903d8865035bad2dbce.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+        "keywords": [
+            "resource-luxury-amber",
+            "building-zoo",
+            "building-archaeological_museum"
+        ],
         "name": "RAF_ACHIEVEMENT_37"
     },
     {
@@ -2270,6 +2275,9 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/9abc441dbf3bfed1a242721e0d5922f70fa1cc6b.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+        "keywords": [
+            "district-government_plaza"
+        ],
         "name": "RAF_ACHIEVEMENT_38"
     }
 ]
