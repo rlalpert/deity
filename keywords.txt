@@ -64,6 +64,9 @@ difficulty-settler
 difficulty-warlord
 district-aerodrome
 district-holy_site
+district-spaceport
+district-unique-ikanda
+district-unique-seowon
 formation-armada
 formation-army
 formation-corps
@@ -113,6 +116,7 @@ tile_improvement-pasture
 tile_improvement-unique-alcazar
 tile_improvement-unique-châteaux
 tile_improvement-unique-colossal_head
+tile_improvement-unique-golf_course
 tile_improvement-unique-great_wall
 tile_improvement-unique-monastery
 tile_improvement-unique-nubian_pyramid
@@ -128,6 +132,7 @@ unit-spy
 unit-unique-crouching_tiger
 unit-unique-hoplite
 unit-unique-immortal
+unit-unique-impi
 unit-unique-mamluk
 unit-unique-maryannu_chariot_archer
 unit-unique-roman_legion

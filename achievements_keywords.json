@@ -1894,6 +1894,7 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/a70c226c54510bff314f57922988e2e05efa3bde.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
         "keywords": [
+            "civ-korea",
             "civ-korea"
         ],
         "name": "RAF_ACHIEVEMENT_05"
@@ -2004,6 +2005,10 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/69860358826f15dbcd7b01c85ac8f56310f1fa43.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+        "keywords": [
+            "tile_improvement-unique-golf_course",
+            "civ-scotland"
+        ],
         "name": "RAF_ACHIEVEMENT_14"
     },
     {
@@ -2037,6 +2042,11 @@
         "hidden": 0,
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/68c8964005897f47b9b15404df7a37238e9419f2.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+        "keywords": [
+            "civ-korea",
+            "district-spaceport",
+            "district-unique-seowon"
+        ],
         "name": "RAF_ACHIEVEMENT_17"
     },
     {
@@ -2047,7 +2057,9 @@
         "icon": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/56634d287f87483bcb0214c35f61b4ad35632c64.jpg",
         "icongray": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
         "keywords": [
-            "civ-zulu"
+            "civ-zulu",
+            "unit-unique-impi",
+            "district-unique-ikanda"
         ],
         "name": "RAF_ACHIEVEMENT_18"
     },
