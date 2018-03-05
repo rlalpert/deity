@@ -2,6 +2,10 @@
 
 Working on a better way of tracking Civ VI Steam achievements.
 
+# ToDo
+
+* Next Step: Little CLI interface to see how I might want to use it?
+
 # Reference (for self)
 
 * [Civ VI entry at steamdb.info](https://steamdb.info/app/289070/info/)
