@@ -23,4 +23,8 @@ for achievement in achievements_raw:
          description=achievement["description"],
          keywords=achievement["keywords"]))
 
-pprint.pprint(achievements)
+# pprint.pprint(achievements)
+
+for a in achievements:
+    if "civ-nubia" in a["keywords"]:
+        pprint.pprint(a)
