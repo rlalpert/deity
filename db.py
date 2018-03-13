@@ -3,16 +3,6 @@ import json
 from cmd import Cmd 
 import pprint
 
-# conn = sqlite3.connect(':memory:')
-
-# conn.execute("""
-#     create table achievements (
-#         name text,
-#         description text,
-#         keywords text
-#     );
-#     """)
-
 with open("achievements_keywords.json", "r") as f:
     achievements_raw = json.load(f)
 
@@ -26,5 +16,5 @@ for achievement in achievements_raw:
 # pprint.pprint(achievements)
 
 for a in achievements:
-    if "civ-nubia" in a["keywords"]:
+    if "civ-rome" in a["keywords"]:
         pprint.pprint(a)
