@@ -6,6 +6,7 @@ Working on a better way of tracking Civ VI Steam achievements.
 
 * sqlite database for achievements and keywords
 * Next Step: Little CLI interface to see how I might want to use it?
+* just use json? 😕
 
 # Reference (for self)
 
