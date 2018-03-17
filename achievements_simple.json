@@ -1,0 +1,1350 @@
+[
+    {
+        "description": "Win a regular game at Settler difficulty or harder",
+        "keywords": [
+            "difficulty-settler"
+        ],
+        "name": "Game, Settler, Match"
+    },
+    {
+        "description": "Win a regular game at Chieftain difficulty or harder",
+        "keywords": [
+            "difficulty-chieftain"
+        ],
+        "name": "Irish Heartbeat"
+    },
+    {
+        "description": "Win a regular game at Warlord difficulty or harder",
+        "keywords": [
+            "difficulty-warlord"
+        ],
+        "name": "Warlording Over Others"
+    },
+    {
+        "description": "Win a regular game at Prince difficulty or harder",
+        "keywords": [
+            "difficulty-prince"
+        ],
+        "name": "Machiavelli's Great Work"
+    },
+    {
+        "description": "Win a regular game at King difficulty or harder",
+        "keywords": [
+            "difficulty-king"
+        ],
+        "name": "The Divine Right of Kings"
+    },
+    {
+        "description": "Win a regular game at Emperor difficulty or harder",
+        "keywords": [
+            "difficulty-emperor"
+        ],
+        "name": "Emperor's New Groove"
+    },
+    {
+        "description": "Win a regular game at Immortal difficulty or harder",
+        "keywords": [
+            "difficulty-immortal"
+        ],
+        "name": "12 Labors of Hercules"
+    },
+    {
+        "description": "Win a regular game at Deity difficulty",
+        "keywords": [
+            "difficulty-deity"
+        ],
+        "name": "God-Like"
+    },
+    {
+        "description": "Win a regular game with a Science victory on any difficulty with any leader",
+        "keywords": [
+            "victory-science"
+        ],
+        "name": "Mission to Mars"
+    },
+    {
+        "description": "Win a regular game with a Religious victory on any difficulty with any leader",
+        "keywords": [
+            "victory-religious"
+        ],
+        "name": "Nirvana"
+    },
+    {
+        "description": "Win a regular game with a Culture victory on any difficulty with any leader",
+        "keywords": [
+            "victory-culture"
+        ],
+        "name": "Buying Your Blue Jeans and Listening to Your Pop Music"
+    },
+    {
+        "description": "Win a regular game with a Domination victory on any difficulty with any leader",
+        "keywords": [
+            "victory-domination"
+        ],
+        "name": "Veni, vidi, vici"
+    },
+    {
+        "description": "Win a regular game as Frederick Barbarossa",
+        "keywords": [
+            "civ-germany"
+        ],
+        "name": "Crusader King"
+    },
+    {
+        "description": "Win a regular game as Catherine De Medici",
+        "keywords": [
+            "civ-france"
+        ],
+        "name": "Valois Dynasty"
+    },
+    {
+        "description": "Win a regular game as Cleopatra",
+        "keywords": [
+            "civ-egypt"
+        ],
+        "name": "Daughter of Isis"
+    },
+    {
+        "description": "Win a regular game as Gandhi",
+        "keywords": [
+            "civ-india"
+        ],
+        "name": "Be the Change You Wish to See In the World"
+    },
+    {
+        "description": "Win a regular game as Gilgamesh",
+        "keywords": [
+            "civ-sumeria"
+        ],
+        "name": "First to Civilize"
+    },
+    {
+        "description": "Win a regular game as Gorgo",
+        "keywords": [
+            "civ-greece-gorgo"
+        ],
+        "name": "For Sparta!!!"
+    },
+    {
+        "description": "Win a regular game as Harald Hardrada",
+        "keywords": [
+            "civ-norway"
+        ],
+        "name": "Varangian Guard"
+    },
+    {
+        "description": "Win a regular game as Hojo Tokimune",
+        "keywords": [
+            "civ-japan"
+        ],
+        "name": "Katsu!"
+    },
+    {
+        "description": "Win a regular game as Montezuma",
+        "keywords": [
+            "civ-aztec"
+        ],
+        "name": "Montezuma's Revenge"
+    },
+    {
+        "description": "Win a regular game as Mvemba a Nzinga",
+        "keywords": [
+            "civ-kongo"
+        ],
+        "name": "Mwene Kongo"
+    },
+    {
+        "description": "Win a regular game as Pedro II",
+        "keywords": [
+            "civ-brazil"
+        ],
+        "name": "Emperor of Brazil"
+    },
+    {
+        "description": "Win a regular game as Pericles",
+        "keywords": [
+            "civ-greece-pericles"
+        ],
+        "name": "Oratorical Skills"
+    },
+    {
+        "description": "Win a regular game as Peter the Great",
+        "keywords": [
+            "civ-russia"
+        ],
+        "name": "Bronze Horseman"
+    },
+    {
+        "description": "Win a regular game as Phillip II",
+        "keywords": [
+            "civ-spain"
+        ],
+        "name": "Non Sufficit Orbis"
+    },
+    {
+        "description": "Win a regular game as Qin Shi Huang",
+        "keywords": [
+            "civ-china"
+        ],
+        "name": "Elixir of Immortality"
+    },
+    {
+        "description": "Win a regular game as Saladin",
+        "keywords": [
+            "civ-arabia"
+        ],
+        "name": "Sultan of Egypt"
+    },
+    {
+        "description": "Win a regular game as Tomyris",
+        "keywords": [
+            "civ-scythia"
+        ],
+        "name": "Warrior Queen"
+    },
+    {
+        "description": "Win a regular game as Trajan",
+        "keywords": [
+            "civ-rome"
+        ],
+        "name": "Rome If You Want To"
+    },
+    {
+        "description": "Win a regular game as Theodore Roosevelt",
+        "keywords": [
+            "civ-america"
+        ],
+        "name": "Let Teddy Win"
+    },
+    {
+        "description": "Win a regular game as Victoria",
+        "keywords": [
+            "civ-england"
+        ],
+        "name": "I Am Amused"
+    },
+    {
+        "description": "Receive a Strategic Resource from Hattusa",
+        "keywords": [
+            "city_state-hattusa"
+        ],
+        "name": "Gift From the Storm God"
+    },
+    {
+        "description": "Build a Colossal Head adjacent to a Holy Site with a Temple.",
+        "keywords": [
+            "district-holy_site",
+            "building-temple",
+            "tile_improvement-unique-colossal_head",
+            "city_state-la_venta"
+        ],
+        "name": "Legends of the Hidden Temple"
+    },
+    {
+        "description": "Levy the military of Nan Madol",
+        "keywords": [
+            "city_state-nan_madol"
+        ],
+        "name": "Army of Cthulhu"
+    },
+    {
+        "description": "As America make a National Park of Crater Lake and both tiles of Yosemite in one game",
+        "keywords": [
+            "civ-america",
+            "national_park",
+            "natural_wonder-crater_lake",
+            "natural_wonder-yosemite"
+        ],
+        "name": "100th Anniversary"
+    },
+    {
+        "description": "Conquer a city with a Mamluk",
+        "keywords": [
+            "civ-arabia",
+            "unit-unique-mamluk"
+        ],
+        "name": "Arabian Knights"
+    },
+    {
+        "description": "As Aztecs on a standard-sized map, attack an opponent while receiving a +16 Combat Strength bonus for having all of the luxuries",
+        "keywords": [
+            "civ-aztec",
+            "map-standard"
+        ],
+        "name": "Huey Tlatoani"
+    },
+    {
+        "description": "Playing as Brazil, complete both Estadio Do Maracana and Christo Redentor in one city",
+        "keywords": [
+            "civ-brazil",
+            "wonder-estadio_do_maracana",
+            "wonder-christo_redentor"
+        ],
+        "name": "2016 Ready"
+    },
+    {
+        "description": "Playing as China, end a turn with 5 Crouching Tigers on Great Wall tiles",
+        "keywords": [
+            "civ-china",
+            "unit-unique-crouching_tiger",
+            "tile_improvement-unique-great_wall"
+        ],
+        "name": "Crouching Tiger Hidden Cannon"
+    },
+    {
+        "description": "As Egypt build a Sphinx adjacent to the Pyramids both on Floodplains",
+        "keywords": [
+            "civ-egypt",
+            "wonder-pyramids",
+            "terrain-floodplains",
+            "tile_improvement-unique-sphinx"
+        ],
+        "name": "Walk Like an Egyptian"
+    },
+    {
+        "description": "Airlift a level 3 Slinger",
+        "keywords": [
+            "unit-slinger"
+        ],
+        "name": "Flight Slingulator"
+    },
+    {
+        "description": "Playing as England on a Huge map, have a city on every continent at the start of the turn",
+        "keywords": [
+            "civ-england",
+            "map-huge"
+        ],
+        "name": "For Queen and Country"
+    },
+    {
+        "description": "Create 5 Ch\u00e2teaux in one city with the Wine resource.",
+        "keywords": [
+            "civ-france",
+            "tile_improvement-unique-ch\u00e2teaux",
+            "resource-luxury-wine"
+        ],
+        "name": "Loire Valley"
+    },
+    {
+        "description": "Playing as Frederick Barbarossa, conquer the city-state of Jerusalem",
+        "keywords": [
+            "civ-germany",
+            "city_state-jerusalem"
+        ],
+        "name": "Third Crusade"
+    },
+    {
+        "description": "Have 12 Policy Slots as Greece",
+        "keywords": [
+            "civ-greece-pericles",
+            "civ-greece-gorgo"
+        ],
+        "name": "12 Olympians"
+    },
+    {
+        "description": "Playing as India on a Huge map, receive +35 Faith in one turn from the Satyagraha ability",
+        "keywords": [
+            "civ-india",
+            "map-huge"
+        ],
+        "name": "Give Peace a Chance"
+    },
+    {
+        "description": "Playing as Japan, have a district with 6 adjacent unpillaged districts",
+        "keywords": [
+            "civ-japan"
+        ],
+        "name": "Meiji Restoration"
+    },
+    {
+        "description": "Playing as Kongo, have a capital city with a population of 30",
+        "keywords": [
+            "civ-kongo"
+        ],
+        "name": "City of Kongo"
+    },
+    {
+        "description": "Capture a settler with a Viking Longship",
+        "keywords": [
+            "unit-settler",
+            "unit-unique-viking_longship"
+        ],
+        "name": "Viking Raid"
+    },
+    {
+        "description": "Clear nuclear contamination with a Roman Legion",
+        "keywords": [
+            "civ-rome",
+            "unit-unique-roman_legion"
+        ],
+        "name": "Missed That Day in History Class"
+    },
+    {
+        "description": "Playing as Russia, have a city that is at least 60 tiles away from your capital, connected by a Trade Route and road at the start of the turn.",
+        "keywords": [
+            "civ-russia",
+            "trade_route"
+        ],
+        "name": "Trans-Siberian Railroad"
+    },
+    {
+        "description": "Playing as Scythia have 10 Saka Horse Archers in your army",
+        "keywords": [
+            "civ-scythia",
+            "unit-unique-saka_horse_archer",
+            "formation-army"
+        ],
+        "name": "Scythian Horse Rush"
+    },
+    {
+        "description": "Launch an Inquisition as Spain",
+        "keywords": [
+            "civ-spain",
+            "unit-religious-apostle"
+        ],
+        "name": "Nobody Expects the Spanish Inquisition"
+    },
+    {
+        "description": "As Sumeria, have the first Great Work of Writing",
+        "keywords": [
+            "civ-sumeria",
+            "great_work-type"
+        ],
+        "name": "Epic of Gilgamesh"
+    },
+    {
+        "description": "Activate Darwin adjacent to the Galapagos Islands",
+        "keywords": [
+            "great_person-darwin",
+            "natural_wonder-galapagos_islands"
+        ],
+        "name": "The Origin of Species"
+    },
+    {
+        "description": "Have an Army of land Units and 2 Armadas",
+        "keywords": [
+            "formation-army",
+            "formation-armada"
+        ],
+        "name": "Oneth By Land Twoeth By Sea"
+    },
+    {
+        "description": "Win a regular game on a Duel Map",
+        "keywords": [
+            "map-duel"
+        ],
+        "name": "Here's Looking At You Kid"
+    },
+    {
+        "description": "Win a regular game on a Tiny Map",
+        "keywords": [
+            "map-tiny"
+        ],
+        "name": "Four Corners Offense"
+    },
+    {
+        "description": "Win a regular game on a Small Map",
+        "keywords": [
+            "map-small"
+        ],
+        "name": "Six Shooter"
+    },
+    {
+        "description": "Win a regular game on a Standard Map",
+        "keywords": [
+            "map-standard"
+        ],
+        "name": "Eight is Enough"
+    },
+    {
+        "description": "Win a regular game on a Large Map",
+        "keywords": [
+            "map-large"
+        ],
+        "name": "Ten Commandments"
+    },
+    {
+        "description": "Win a regular game on a Huge Map",
+        "keywords": [
+            "map-huge"
+        ],
+        "name": "Dirty Dozen"
+    },
+    {
+        "description": "Win a regular game on the Continents Map",
+        "keywords": [
+            "map-continents"
+        ],
+        "name": "Tectonic Shift"
+    },
+    {
+        "description": "Win a regular game on the Inland Sea Map",
+        "keywords": [
+            "map-inland_sea"
+        ],
+        "name": "Mare Nostrum"
+    },
+    {
+        "description": "Win a regular game on the Island Plates Map",
+        "keywords": [
+            "map-island_plates"
+        ],
+        "name": "The Taste of Victory"
+    },
+    {
+        "description": "Win a regular game on the Shuffle Map",
+        "keywords": [
+            "map-shuffle"
+        ],
+        "name": "Riffle and Bridge"
+    },
+    {
+        "description": "Win a regular game on the Pangaea Map",
+        "keywords": [
+            "map-pangaea"
+        ],
+        "name": "Alfred Wegener's Legacy"
+    },
+    {
+        "description": "Get 5 Tech boosts in 1 turn",
+        "keywords": [],
+        "name": "Archimedes Bath"
+    },
+    {
+        "description": "Get 5 Civic boosts in 1 turn",
+        "keywords": [],
+        "name": "Civ 6 Civets System"
+    },
+    {
+        "description": "Use a bomber class unit to detonate a nuclear device, as long as its base and 9 Observation Balloons are located on the continent of Nena at the time of detonation.",
+        "keywords": [
+            "continent-nena",
+            "unit-observation_balloon",
+            "nuclear_device"
+        ],
+        "name": "Luftballons"
+    },
+    {
+        "description": "Activate Leonardo da Vinci in New York with Great Works from Michelangelo and Donatello -- and a sewer -- all in that city",
+        "keywords": [
+            "city-new_york",
+            "building-sewer",
+            "gw-creator-michelangelo",
+            "great_person-leonardo_da_vinci",
+            "great_work-creator"
+        ],
+        "name": "Pizza Party!"
+    },
+    {
+        "description": "Launch a weapon of mass destruction and have it pillage seven wonders",
+        "keywords": [],
+        "name": "Seven Wonders of the Post-Apocalyptic World"
+    },
+    {
+        "description": "Steal a Great Work of Art and don't get caught",
+        "keywords": [
+            "unit-spy",
+            "great_work-type"
+        ],
+        "name": "Repo Man"
+    },
+    {
+        "description": "Build every district type in one city and the Colosseum",
+        "keywords": [
+            "wonder-colosseum"
+        ],
+        "name": "District 12"
+    },
+    {
+        "description": "Play a multiplayer game",
+        "keywords": [
+            "game_mode-multiplayer"
+        ],
+        "name": "Land Party"
+    },
+    {
+        "description": "Put two units into a formation",
+        "keywords": [
+            "formation-corps",
+            "formation-fleet"
+        ],
+        "name": "Escort Service"
+    },
+    {
+        "description": "Have 6 Improvements at one time.",
+        "keywords": [
+            "unit-builder"
+        ],
+        "name": "If You Build It, They Will Come"
+    },
+    {
+        "description": "Found or conquer a city on a different continent",
+        "keywords": [],
+        "name": "Voyage of the Mayflower"
+    },
+    {
+        "description": "At the start of the turn have an Ecstatic city.",
+        "keywords": [],
+        "name": "Everything is Awesome!!!"
+    },
+    {
+        "description": "Have an enemy city under siege at the start of the turn",
+        "keywords": [],
+        "name": "Investment Banking"
+    },
+    {
+        "description": "Declare a formal war",
+        "keywords": [],
+        "name": "A Case for War"
+    },
+    {
+        "description": "Name a unit",
+        "keywords": [],
+        "name": "Naming Rights"
+    },
+    {
+        "description": "Change your government",
+        "keywords": [],
+        "name": "A Revolution Without Dancing"
+    },
+    {
+        "description": "Have top secret access with five civilizations in one game at once.",
+        "keywords": [
+            "access-top_secret"
+        ],
+        "name": "Secret Service"
+    },
+    {
+        "description": "Possess 6 Silver luxury resources at the start of the turn",
+        "keywords": [
+            "resource-luxury-silver"
+        ],
+        "name": "Silver Anniversary"
+    },
+    {
+        "description": "Become Suzerain of a City-State",
+        "keywords": [],
+        "name": "New Orleans Style Spanish Rice"
+    },
+    {
+        "description": "Win a regular game with a Science victory on any difficulty with any leader with a captured Egyptian city -- having also activated Newton and Darwin",
+        "keywords": [
+            "victory-science",
+            "civ-egypt-enemy",
+            "great_person-darwin",
+            "great_person-newton"
+        ],
+        "name": "Man on the Moon"
+    },
+    {
+        "description": "Win a regular game with a Religious victory with your dominant religion being Zoroastrianism and at the time of victory you are the Suzerain of Zanzibar",
+        "keywords": [
+            "victory-religious",
+            "religion-zoroastrianism",
+            "city_state-zanzibar"
+        ],
+        "name": "We Are The Champions"
+    },
+    {
+        "description": "Win a regular game with a Culture victory with your leader in the game as your opponent as well",
+        "keywords": [
+            "victory-culture"
+        ],
+        "name": "Selfie"
+    },
+    {
+        "description": "Win a regular game with a Domination victory on any difficulty with any leader on a Huge Island Plates map.",
+        "keywords": [
+            "victory-domination",
+            "map-island_plates",
+            "map-huge"
+        ],
+        "name": "Island Hopping"
+    },
+    {
+        "description": "Win a regular game with an Ancient Era start",
+        "keywords": [
+            "start_era-ancient"
+        ],
+        "name": "The Test of Time"
+    },
+    {
+        "description": "Win a regular game with a Classical Era start",
+        "keywords": [
+            "start_era-classical"
+        ],
+        "name": "After Antiquity"
+    },
+    {
+        "description": "Win a regular game with a Medieval Era start",
+        "keywords": [
+            "start_era-medieval"
+        ],
+        "name": "Out of the Dark Ages"
+    },
+    {
+        "description": "Win a regular game with a Renaissance Era start",
+        "keywords": [
+            "start_era-renaissance"
+        ],
+        "name": "Renaissance Man"
+    },
+    {
+        "description": "Win a regular game with an Industrial Era start",
+        "keywords": [
+            "start_era-industrial"
+        ],
+        "name": "Captain of Industry"
+    },
+    {
+        "description": "Win a regular game with a Modern Era start",
+        "keywords": [
+            "start_era-modern"
+        ],
+        "name": "Modern Major General"
+    },
+    {
+        "description": "Win a regular game with an Atomic Era start",
+        "keywords": [
+            "start_era-atomic"
+        ],
+        "name": "Splitting the Atom"
+    },
+    {
+        "description": "Win a regular game with an Information Era start",
+        "keywords": [
+            "start_era-information"
+        ],
+        "name": "Through the Digital Age"
+    },
+    {
+        "description": "Win a regular game on Fractal Map",
+        "keywords": [
+            "map-fractal"
+        ],
+        "name": "Unique Snowflake"
+    },
+    {
+        "description": "Build an Alcazar within 2 tiles of the Alhambra",
+        "keywords": [
+            "wonder-alhambra",
+            "tile_improvement-unique-alcazar",
+            "city_state-granada"
+        ],
+        "name": "Even Our Castles Have Castles"
+    },
+    {
+        "description": "Build a Monastery within 2 tiles of the Giant\u0092s Causeway",
+        "keywords": [
+            "tile_improvement-unique-monastery",
+            "city_state-armagh",
+            "natural_wonder-giants_causeway"
+        ],
+        "name": "Finn MacCool\u0092s Pipe Organ"
+    },
+    {
+        "description": "Build three Aerodromes within 2 tiles of Eyjafjallaj\u00f6kull",
+        "keywords": [
+            "district-aerodrome",
+            "natural_wonder-eyjafjallaj\u00f6kull"
+        ],
+        "name": "What Do You Mean, \u0093Active Volcano?\u0094"
+    },
+    {
+        "description": "Win Vikings, Traders, and Raiders! as Canute",
+        "keywords": [],
+        "name": "Absolutely Nothing Rotten in the State of Denmark"
+    },
+    {
+        "description": "Win Vikings, Traders, and Raiders! as Harald Hardrada",
+        "keywords": [
+            "civ-norway"
+        ],
+        "name": "More Hacksilver For Harald"
+    },
+    {
+        "description": "Win Vikings, Traders, and Raiders! as Olof Sk\u00f6tkonung",
+        "keywords": [],
+        "name": "Master of the Baltic"
+    },
+    {
+        "description": "Win Vikings, Traders, and Raiders! at Deity difficulty",
+        "keywords": [
+            "difficulty-deity"
+        ],
+        "name": "God of the Sea"
+    },
+    {
+        "description": "Win a regular game as Jadwiga",
+        "keywords": [
+            "civ-poland"
+        ],
+        "name": "Armor of Faith"
+    },
+    {
+        "description": "Playing as Poland, destroy another civilization\u0092s incomplete wonder by initiating a Culture Bomb",
+        "keywords": [
+            "civ-poland"
+        ],
+        "name": "You Are A Terrible Person"
+    },
+    {
+        "description": "Win Jadwiga's Legacy as Stanislaw Potocki",
+        "keywords": [],
+        "name": "Winged Hussar Mastery"
+    },
+    {
+        "description": "Win Jadwiga's Legacy as Mikolaj \u0093the Black\u0094 Radziwill",
+        "keywords": [],
+        "name": "Always Bet On Black"
+    },
+    {
+        "description": "Win Jadwiga's Legacy as Konstanty Ostrogski",
+        "keywords": [],
+        "name": "The Grandest of Hetmans"
+    },
+    {
+        "description": "Win Jadwiga's Legacy at Deity difficulty",
+        "keywords": [
+            "difficulty-deity"
+        ],
+        "name": "God-Like Legacy"
+    },
+    {
+        "description": "Win a regular game as John Curtin",
+        "keywords": [
+            "civ-australia"
+        ],
+        "name": "A Smashing Victory"
+    },
+    {
+        "description": "Playing as Australia, build a Pasture over Sheep and steal an adjacent player's Lumbermill",
+        "keywords": [
+            "civ-australia",
+            "tile_improvement-pasture",
+            "resource-bonus-sheep",
+            "building-lumbermill"
+        ],
+        "name": "Wood for Sheep"
+    },
+    {
+        "description": "Win Outback Tycoon as Queensland",
+        "keywords": [],
+        "name": "Revenge of the Banana Benders"
+    },
+    {
+        "description": "Win Outback Tycoon as South Australia",
+        "keywords": [],
+        "name": "Crow-eater Conquest"
+    },
+    {
+        "description": "Win Outback Tycoon as Victoria",
+        "keywords": [],
+        "name": "Gumsucker Punch"
+    },
+    {
+        "description": "Win Outback Tycoon as Western Australia",
+        "keywords": [],
+        "name": "Sandgroper Sweep"
+    },
+    {
+        "description": "Win Outback Tycoon at Deity difficulty",
+        "keywords": [
+            "difficulty-deity"
+        ],
+        "name": "Meanwhile, in Australia"
+    },
+    {
+        "description": "Complete an online multiplayer game of Outback Tycoon",
+        "keywords": [
+            "game_mode-multiplayer"
+        ],
+        "name": "Quite a Crowded House"
+    },
+    {
+        "description": "Build an Oil Well on the final turn of the Outback Tycoon scenario",
+        "keywords": [
+            "tile_improvement-oil_well"
+        ],
+        "name": "Midnight Oil"
+    },
+    {
+        "description": "Lose a unit to the perils of Australia in the Outback Tycoon scenario",
+        "keywords": [],
+        "name": "Attack of the Drop Bear"
+    },
+    {
+        "description": "Win a regular game as Alexander",
+        "keywords": [
+            "civ-macedonia"
+        ],
+        "name": "Never Lost a Battle"
+    },
+    {
+        "description": "Win a regular game as Cyrus",
+        "keywords": [
+            "civ-persia"
+        ],
+        "name": "King of the Four Corners of the World"
+    },
+    {
+        "description": "Playing as Macedon, conquer a city containing both the Great Library and Great Lighthouse wonders",
+        "keywords": [
+            "civ-macedonia",
+            "wonder-great_library",
+            "wonder-great_lighthouse"
+        ],
+        "name": "Greatest Is As Greatest Does"
+    },
+    {
+        "description": "Playing as Persia, conquer the original Scythian capital within 10 turns of declaring a surprise war on Scythia",
+        "keywords": [
+            "civ-persia",
+            "civ-scythia-enemy"
+        ],
+        "name": "Some Wine For Your Soldiers?"
+    },
+    {
+        "description": "After building the Apadana wonder, construct 7 additional wonders in the same city",
+        "keywords": [
+            "wonder-apadana"
+        ],
+        "name": "Envoy Convoy"
+    },
+    {
+        "description": "Win Conquests of Alexander on any difficulty",
+        "keywords": [],
+        "name": "No More Worlds To Conquer"
+    },
+    {
+        "description": "Achieve the highest possible rank in Conquests of Alexander at Deity difficulty",
+        "keywords": [
+            "difficulty-deity"
+        ],
+        "name": "You\u0092re the Demonstrably Greatest"
+    },
+    {
+        "description": "Settle four cities in Conquests of Alexander on any difficulty",
+        "keywords": [],
+        "name": "He Named Them All After Himself?"
+    },
+    {
+        "description": "Possess all of the following after conquering a city in Conquests of Alexander: Hoplite, Saka Horse Archer, Maryannu Chariot Archer, Immortal, and Varu",
+        "keywords": [
+            "unit-unique-saka_horse_archer",
+            "unit-unique-hoplite",
+            "unit-unique-maryannu_chariot_archer",
+            "unit-unique-varu",
+            "unit-unique-immortal"
+        ],
+        "name": "Resplendent\u00a0Panoply"
+    },
+    {
+        "description": "Playing as Scythia, recapture one of your founded cities from Persia",
+        "keywords": [
+            "civ-scythia",
+            "civ-persia-enemy"
+        ],
+        "name": "I Quenched Your Thirst For Blood"
+    },
+    {
+        "description": "Win a regular game as Amanitore",
+        "keywords": [
+            "civ-nubia"
+        ],
+        "name": "gg nub"
+    },
+    {
+        "description": "As Nubia, earn six different adjacency bonuses on a Nubian Pyramid",
+        "keywords": [
+            "civ-nubia",
+            "tile_improvement-unique-nubian_pyramid"
+        ],
+        "name": "Pyramid Scheme"
+    },
+    {
+        "description": "Playing as Egypt in a regular game, conquer the original Nubian capital within 10 turns of declaring a formal war on Nubia",
+        "keywords": [
+            "civ-egypt",
+            "civ-nubia-enemy"
+        ],
+        "name": "Claim the Fourth Cataract"
+    },
+    {
+        "description": "Playing as Nubia, liberate the original Egyptian capital in a liberation war with the capital's conqueror",
+        "keywords": [
+            "civ-egypt-enemy",
+            "civ-nubia"
+        ],
+        "name": "The 25th Dynasty"
+    },
+    {
+        "description": "After building the Jebel Barkal wonder, earn 28 Faith per turn on its tile",
+        "keywords": [
+            "wonder-jebel_barkal"
+        ],
+        "name": "Overclocked Conviction"
+    },
+    {
+        "description": "Win Gifts of the Nile on any difficulty",
+        "keywords": [],
+        "name": "More Wind for the Wind God"
+    },
+    {
+        "description": "Playing Gifts of the Nile as Egypt, win on Deity difficulty",
+        "keywords": [
+            "difficulty-deity",
+            "civ-egypt"
+        ],
+        "name": "Total A-Nile-hilation"
+    },
+    {
+        "description": "Playing Gifts of the Nile as Nubia, win on Deity difficulty",
+        "keywords": [
+            "difficulty-deity",
+            "civ-nubia"
+        ],
+        "name": "That\u0092s Some Good Kerma"
+    },
+    {
+        "description": "Playing Gifts of the Nile as Nubia, found a coastal city on the Mediterranean Sea",
+        "keywords": [
+            "civ-nubia"
+        ],
+        "name": "Sea of the Bow"
+    },
+    {
+        "description": "Playing Gifts of the Nile as Egypt, conquer Irem and Punt",
+        "keywords": [
+            "civ-egypt"
+        ],
+        "name": "From Med to Red to the Land of the Dead"
+    },
+    {
+        "description": "Win a regular game as Jayavarman VII",
+        "keywords": [
+            "civ-khmer"
+        ],
+        "name": "Cardamom and Mangos and Elephants"
+    },
+    {
+        "description": "Win a regular game as Gitarja",
+        "keywords": [
+            "civ-indonesia"
+        ],
+        "name": "All Beneath the Wings of Garuda"
+    },
+    {
+        "description": "Win the Path to Nirvana scenario on any difficulty",
+        "keywords": [],
+        "name": "What is Mind? No Matter.\u00a0"
+    },
+    {
+        "description": "Win the Path to Nirvana scenario on Deity",
+        "keywords": [
+            "difficulty-deity"
+        ],
+        "name": "What is Matter? Nevermind.\u00a0"
+    },
+    {
+        "description": "Build Angkor Wat and a Wat in Angkor Wat",
+        "keywords": [
+            "wonder-angkor_wat",
+            "building-wat",
+            "city-angkor_wat"
+        ],
+        "name": "Wat is Love"
+    },
+    {
+        "description": "Have 5 cities on landmasses 5 or less tiles with Indonesia",
+        "keywords": [
+            "civ-indonesia"
+        ],
+        "name": "Thalassocratophile\u00a0"
+    },
+    {
+        "description": "Have a Warrior Monk with 4 Promotions",
+        "keywords": [
+            "unit-warrior_monk"
+        ],
+        "name": "Try To Snatch the Pebble From My Hand\u00a0"
+    },
+    {
+        "description": "With a Guru Heal 7 religious units with one action",
+        "keywords": [
+            "unit-guru"
+        ],
+        "name": "Raid Healer"
+    },
+    {
+        "description": "Build all 3 Wonders in the Paths to Nirvana scenario",
+        "keywords": [],
+        "name": "Many Signs and Wonders\u00a0"
+    },
+    {
+        "description": "Convert 3 opposing Holy Cities in the Paths to Nirvana scenario",
+        "keywords": [],
+        "name": "Do You Have A Moment To Talk About Salvation?"
+    },
+    {
+        "description": "Win a regular game as Shaka",
+        "keywords": [
+            "civ-zulu"
+        ],
+        "name": "uSuthu! uSuthu!"
+    },
+    {
+        "description": "Win a regular game as Chandragupta",
+        "keywords": [
+            "civ-india-chandragupta"
+        ],
+        "name": "A Burning Splendor"
+    },
+    {
+        "description": "Win a regular game as Queen Wilhelmina",
+        "keywords": [
+            "civ-dutch"
+        ],
+        "name": "A small Country, a great people, so sorely tried"
+    },
+    {
+        "description": "Win a regular game as Genghis Khan",
+        "keywords": [
+            "civ-mongolia"
+        ],
+        "name": "Lord of All Who Live in Felt Tents"
+    },
+    {
+        "description": "Win a regular game as Queen Seondeok",
+        "keywords": [
+            "civ-korea",
+            "civ-korea"
+        ],
+        "name": "From Peonies to Doricheon"
+    },
+    {
+        "description": "Win a regular game as Robert the Bruce",
+        "keywords": [
+            "civ-scotland"
+        ],
+        "name": "Let gentle blood shew generous might"
+    },
+    {
+        "description": "Win a regular game as Tamar",
+        "keywords": [
+            "civ-georgia"
+        ],
+        "name": "Radiant Deeds, Bright as Sunshine"
+    },
+    {
+        "description": "Win a regular game as Lautaro",
+        "keywords": [
+            "civ-mapuche"
+        ],
+        "name": "Deeds of a Monarch-Scorning People"
+    },
+    {
+        "description": "Win a regular game as Poundmaker",
+        "keywords": [
+            "civ-cree"
+        ],
+        "name": "Justice and Lasting Peace"
+    },
+    {
+        "description": "Win a regular game on the Archipelago Map",
+        "keywords": [
+            "map-archipelago"
+        ],
+        "name": "Master and Commander"
+    },
+    {
+        "description": "As Lautaro, capture Philip II's original capital city ",
+        "keywords": [
+            "civ-mapuche",
+            "civ-spain-enemy"
+        ],
+        "name": "Reverse Colonialism"
+    },
+    {
+        "description": "As Genghis, win a Cultural Victory",
+        "keywords": [
+            "civ-mongolia",
+            "victory-culture"
+        ],
+        "name": "Buying your Deels and Listening to Your Throat Singing"
+    },
+    {
+        "description": "As Wilhelmina, have seven cities and seven Zeven de Provincien at the start of the turn",
+        "keywords": [
+            "unit-unique-zeven_de_provincien",
+            "civ-dutch"
+        ],
+        "name": "Triple Seven"
+    },
+    {
+        "description": "Build a Golf Course in a tile where you had previously attempted to build a Wonder, but got beaten to the Wonder by another Civ",
+        "keywords": [
+            "tile_improvement-unique-golf_course",
+            "civ-scotland"
+        ],
+        "name": "Mulligan"
+    },
+    {
+        "description": "As Poundmaker, have an active Alliance of every type",
+        "keywords": [
+            "civ-cree"
+        ],
+        "name": "Adamantine Confederacy"
+    },
+    {
+        "description": "As Chandragupta, launch a nuclear weapon",
+        "keywords": [
+            "civ-india-chandragupta"
+        ],
+        "name": "I Thought We'd Moved Past This Joke"
+    },
+    {
+        "description": "As Seondeok, build a Spaceport district next to a Seowon",
+        "keywords": [
+            "civ-korea",
+            "district-spaceport",
+            "district-unique-seowon"
+        ],
+        "name": "Advanced Seminar in Astrophysics"
+    },
+    {
+        "description": "As Shaka, train a Corps of Impi using the Ikanda district",
+        "keywords": [
+            "civ-zulu",
+            "unit-unique-impi",
+            "district-unique-ikanda"
+        ],
+        "name": "Ibutho"
+    },
+    {
+        "description": "As Tamar, have every city-state in the game following the religion you founded",
+        "keywords": [
+            "civ-georgia"
+        ],
+        "name": "Holy Righteous Queen Tamar"
+    },
+    {
+        "description": "Have a Governor with every promotion",
+        "keywords": [],
+        "name": "Subject Matter Expert"
+    },
+    {
+        "description": "Unlock every Governor, and have them established at the same time before the game reaches the Industrial Era",
+        "keywords": [],
+        "name": "Getting the Band Back Together"
+    },
+    {
+        "description": "Join or be the target of 3 Emergencies in a single game",
+        "keywords": [],
+        "name": "Drama Queen"
+    },
+    {
+        "description": "Join a Betrayal Emergency",
+        "keywords": [],
+        "name": "Curse your sudden but inevitable betrayal!"
+    },
+    {
+        "description": "As France, build an Intelligence Agency",
+        "keywords": [
+            "civ-france",
+            "building-intelligence_agency"
+        ],
+        "name": "Blackest Queen"
+    },
+    {
+        "description": "Achieve the maximum Alliance level with Gilgamesh",
+        "keywords": [
+            "civ-sumeria"
+        ],
+        "name": "Bromance"
+    },
+    {
+        "description": "Neutralize a Governor with a Spy",
+        "keywords": [
+            "unit-spy"
+        ],
+        "name": "Die Another Day"
+    },
+    {
+        "description": "Build a Fishery adjacent to the Great Barrier Reef",
+        "keywords": [
+            "tile_improvement-fishery",
+            "natural_wonder-great_barrier_reef"
+        ],
+        "name": "Circle of Life"
+    },
+    {
+        "description": "Make a peace deal which includes you giving or receiving an Olives resource",
+        "keywords": [
+            "resource-luxury-olives"
+        ],
+        "name": "Extend the Olive Branch"
+    },
+    {
+        "description": "Have 10 Shopping Malls in your civilization at the same time",
+        "keywords": [
+            "building-shopping_mall"
+        ],
+        "name": "Shopping Spree"
+    },
+    {
+        "description": "Assign a Dark Policy to your Government",
+        "keywords": [],
+        "name": "Desperate Times Call For Desperate Measures"
+    },
+    {
+        "description": "Gain control of an Ally's city after it becomes disloyal, and choose to keep it",
+        "keywords": [],
+        "name": "Frenemy"
+    },
+    {
+        "description": "Be the first player to circumnavigate the world after Ferdinand Magellan has been recruited by another player",
+        "keywords": [
+            "great_person-admiral-ferdinand_magellan"
+        ],
+        "name": "Elcano's Revenge"
+    },
+    {
+        "description": "Win the game while in a Dark Age",
+        "keywords": [],
+        "name": "Dark Horse"
+    },
+    {
+        "description": "As England, lose a city to disloyalty which has an established Financier Governor",
+        "keywords": [
+            "civ-england"
+        ],
+        "name": "Taxation Without Representation"
+    },
+    {
+        "description": "Achieve a Heroic Age",
+        "keywords": [],
+        "name": "Victory Belongs to the Most Persevering"
+    },
+    {
+        "description": "Earn three Golden Ages in a row",
+        "keywords": [],
+        "name": "I'm going to break the wheel"
+    },
+    {
+        "description": "Have an improved Amber resource in a city with a Zoo and an Archaeological Museum at the start of the turn",
+        "keywords": [
+            "resource-luxury-amber",
+            "building-zoo",
+            "building-archaeological_museum"
+        ],
+        "name": "What Could Possibly Go Wrong?"
+    },
+    {
+        "description": "Completely surround your Government Plaza with districts or wonders you own at the start of the turn",
+        "keywords": [
+            "district-government_plaza"
+        ],
+        "name": "Metroplex"
+    }
+]
