@@ -8,7 +8,6 @@ with open("achievements_simple.json", "r") as f:
 @click.command()
 @click.option('--keyword', prompt='Please enter a keyword',
     help='Enter a keyword to return a list of related Civ VI achievements.')
-
 def keyword_search(keyword):
     for item in achievements:
         if keyword in item["keywords"]:
