@@ -528,6 +528,7 @@
         "description": "Activate Leonardo da Vinci in New York with Great Works from Michelangelo and Donatello -- and a sewer -- all in that city",
         "keywords": [
             "city-new_york",
+            "civ-america",
             "building-sewer",
             "gw-creator-michelangelo",
             "great_person-leonardo_da_vinci",

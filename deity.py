@@ -10,8 +10,10 @@ with open("achievements_simple.json", "r") as f:
     help='Enter a keyword to return a list of related Civ VI achievements.')
 def keyword_search(keyword):
     for item in achievements:
-        if keyword in item["keywords"]:
-            click.echo("%s" % item)
+        # allow partial matching
+        for k in item["keywords"]:
+            if keyword in k:
+                click.echo("%s" % item)
 
 if __name__ == '__main__':
     keyword_search()
