@@ -12,8 +12,9 @@ def keyword_search(keyword):
     for item in achievements:
         # allow partial matching
         for k in item["keywords"]:
-            if keyword in k:
-                click.echo("%s" % item)
+            if keyword.lower() in k:
+                click.echo("%s" % item["name"])
+                click.echo("%s\n" % item["description"])
 
 if __name__ == '__main__':
     keyword_search()
